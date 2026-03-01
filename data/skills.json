@@ -7220,7 +7220,7 @@
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 126623,
+      "stars": 126627,
       "forks": 32430,
       "language": "",
       "topics": [
@@ -7247,7 +7247,7 @@
       ],
       "owner": "x1xhlol",
       "created_at": "2025-03-05T16:38:29Z",
-      "updated_at": "2026-03-01T09:36:15Z",
+      "updated_at": "2026-03-01T09:41:33Z",
       "pushed_at": "2026-02-17T11:22:32Z",
       "first_seen": "2026-03-01",
       "prev_stars": 126623,
@@ -7296,7 +7296,7 @@
       "name": "liyupi/ai-guide",
       "url": "https://github.com/liyupi/ai-guide",
       "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站",
-      "stars": 8470,
+      "stars": 8473,
       "forks": 904,
       "language": "JavaScript",
       "topics": [
@@ -7323,7 +7323,7 @@
       ],
       "owner": "liyupi",
       "created_at": "2025-02-13T05:47:46Z",
-      "updated_at": "2026-03-01T09:09:57Z",
+      "updated_at": "2026-03-01T09:44:18Z",
       "pushed_at": "2026-02-28T02:16:26Z",
       "first_seen": "2026-03-01",
       "prev_stars": 8470,
@@ -12717,7 +12717,7 @@
       "name": "enulus/OpenPackage",
       "url": "https://github.com/enulus/OpenPackage",
       "description": "The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.",
-      "stars": 378,
+      "stars": 379,
       "forks": 17,
       "language": "TypeScript",
       "topics": [
@@ -12735,7 +12735,7 @@
       ],
       "owner": "enulus",
       "created_at": "2025-10-15T03:07:47Z",
-      "updated_at": "2026-03-01T09:11:28Z",
+      "updated_at": "2026-03-01T09:44:26Z",
       "pushed_at": "2026-02-26T09:28:09Z",
       "first_seen": "2026-03-01",
       "prev_stars": 378,
@@ -13730,13 +13730,13 @@
       "name": "agentsmd/agents.md",
       "url": "https://github.com/agentsmd/agents.md",
       "description": "AGENTS.md — a simple, open format for guiding coding agents",
-      "stars": 18310,
+      "stars": 18311,
       "forks": 1315,
       "language": "TypeScript",
       "topics": [],
       "owner": "agentsmd",
       "created_at": "2025-08-19T17:22:54Z",
-      "updated_at": "2026-03-01T09:14:13Z",
+      "updated_at": "2026-03-01T09:44:40Z",
       "pushed_at": "2025-12-19T20:06:52Z",
       "first_seen": "2026-03-01",
       "prev_stars": 18310,
@@ -14081,13 +14081,13 @@
       "name": "yibie/SPEC-AGENTS.md",
       "url": "https://github.com/yibie/SPEC-AGENTS.md",
       "description": "Doc-Driven Development",
-      "stars": 102,
+      "stars": 103,
       "forks": 24,
       "language": "Shell",
       "topics": [],
       "owner": "yibie",
       "created_at": "2025-12-16T09:31:09Z",
-      "updated_at": "2026-02-28T16:24:55Z",
+      "updated_at": "2026-03-01T09:45:52Z",
       "pushed_at": "2026-02-22T14:40:41Z",
       "first_seen": "2026-03-01",
       "prev_stars": 102,
@@ -15481,7 +15481,7 @@
       "name": "Piebald-AI/claude-code-system-prompts",
       "url": "https://github.com/Piebald-AI/claude-code-system-prompts",
       "description": "All parts of Claude Code's system prompt, 18 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.",
-      "stars": 5068,
+      "stars": 5069,
       "forks": 728,
       "language": "JavaScript",
       "topics": [
@@ -15491,7 +15491,7 @@
       ],
       "owner": "Piebald-AI",
       "created_at": "2025-11-18T21:26:33Z",
-      "updated_at": "2026-03-01T09:10:24Z",
+      "updated_at": "2026-03-01T09:39:18Z",
       "pushed_at": "2026-02-28T15:07:45Z",
       "first_seen": "2026-03-01",
       "prev_stars": 5068,
@@ -17280,14 +17280,57 @@
     "2026-03-01": {
       "date": "2026-03-01",
       "total_skills": 802,
-      "total_stars": 1339324,
+      "total_stars": 1339335,
       "new_today": 802,
-      "top_gainers": []
+      "top_gainers": [
+        {
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "stars": 126627,
+          "delta": 4,
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+        },
+        {
+          "name": "liyupi/ai-guide",
+          "stars": 8473,
+          "delta": 3,
+          "url": "https://github.com/liyupi/ai-guide",
+          "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站"
+        },
+        {
+          "name": "enulus/OpenPackage",
+          "stars": 379,
+          "delta": 1,
+          "url": "https://github.com/enulus/OpenPackage",
+          "description": "The open, universal, coding agent skills, agents, rules, and commands organizer and package manager."
+        },
+        {
+          "name": "agentsmd/agents.md",
+          "stars": 18311,
+          "delta": 1,
+          "url": "https://github.com/agentsmd/agents.md",
+          "description": "AGENTS.md — a simple, open format for guiding coding agents"
+        },
+        {
+          "name": "yibie/SPEC-AGENTS.md",
+          "stars": 103,
+          "delta": 1,
+          "url": "https://github.com/yibie/SPEC-AGENTS.md",
+          "description": "Doc-Driven Development"
+        },
+        {
+          "name": "Piebald-AI/claude-code-system-prompts",
+          "stars": 5069,
+          "delta": 1,
+          "url": "https://github.com/Piebald-AI/claude-code-system-prompts",
+          "description": "All parts of Claude Code's system prompt, 18 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version."
+        }
+      ]
     }
   },
   "meta": {
     "created": "2026-03-01 17:35:09",
     "total_collected": 802,
-    "last_updated": "2026-03-01 17:35:09"
+    "last_updated": "2026-03-01 17:45:09"
   }
 }
