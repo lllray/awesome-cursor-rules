@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 718 718" width="718" height="718">
+<rect width="718" height="718" rx="10" fill="#ffffff"/>
+<text x="359.0" y="28" text-anchor="middle" fill="#000000" font-size="14" font-weight="bold">🔥 Daily Trending (2026-03-01)</text>
+<rect x="24" y="48" width="670" height="32" fill="#f6f8fa" rx="4"/>
+<text x="44.0" y="70" text-anchor="middle" fill="#333333" font-size="11">#</text>
+<text x="174.0" y="70" text-anchor="middle" fill="#333333" font-size="11">Project</text>
+<text x="324.0" y="70" text-anchor="middle" fill="#333333" font-size="11">⭐</text>
+<text x="396.0" y="70" text-anchor="middle" fill="#333333" font-size="11">📈 Gain</text>
+<text x="561.0" y="70" text-anchor="middle" fill="#333333" font-size="11">Description</text>
+<line x1="24" y1="80" x2="694" y2="80" stroke="#d0d7de" stroke-width="1"/>
+<text x="44.0" y="96" text-anchor="middle" fill="#000000" font-size="11">1</text>
+<text x="174.0" y="96" text-anchor="middle" fill="#000000" font-size="11">x1xhlol/system-prompts-an...</text>
+<text x="324.0" y="96" text-anchor="middle" fill="#000000" font-size="11">126,732</text>
+<text x="396.0" y="96" text-anchor="middle" fill="#000000" font-size="11">+109</text>
+<text x="561.0" y="96" text-anchor="middle" fill="#000000" font-size="11">FULL Augment Code, Claude Code,</text>
+<text x="561.0" y="110" text-anchor="middle" fill="#000000" font-size="11">Cluely, CodeBuddy, Comet, Cursor, Devin </text>
+<line x1="24" y1="130" x2="694" y2="130" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="142" text-anchor="middle" fill="#000000" font-size="11">2</text>
+<text x="174.0" y="142" text-anchor="middle" fill="#000000" font-size="11">liyupi/ai-guide</text>
+<text x="324.0" y="142" text-anchor="middle" fill="#000000" font-size="11">8,511</text>
+<text x="396.0" y="142" text-anchor="middle" fill="#000000" font-size="11">+41</text>
+<text x="561.0" y="142" text-anchor="middle" fill="#000000" font-size="11">程序员鱼皮的 AI 资源大全 + Vibe Coding</text>
+<text x="561.0" y="156" text-anchor="middle" fill="#000000" font-size="11">零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / C</text>
+<line x1="24" y1="176" x2="694" y2="176" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="188" text-anchor="middle" fill="#000000" font-size="11">3</text>
+<text x="174.0" y="188" text-anchor="middle" fill="#000000" font-size="11">github/awesome-copilot</text>
+<text x="324.0" y="188" text-anchor="middle" fill="#000000" font-size="11">23,031</text>
+<text x="396.0" y="188" text-anchor="middle" fill="#000000" font-size="11">+22</text>
+<text x="561.0" y="188" text-anchor="middle" fill="#000000" font-size="11">Community-contributed instructions,</text>
+<text x="561.0" y="202" text-anchor="middle" fill="#000000" font-size="11">prompts, and configurations to help </text>
+<line x1="24" y1="222" x2="694" y2="222" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="234" text-anchor="middle" fill="#000000" font-size="11">4</text>
+<text x="174.0" y="234" text-anchor="middle" fill="#000000" font-size="11">mco-org/mco</text>
+<text x="324.0" y="234" text-anchor="middle" fill="#000000" font-size="11">76</text>
+<text x="396.0" y="234" text-anchor="middle" fill="#000000" font-size="11">+19</text>
+<text x="561.0" y="234" text-anchor="middle" fill="#000000" font-size="11">Orchestrate AI coding agents. Any</text>
+<text x="561.0" y="248" text-anchor="middle" fill="#000000" font-size="11">prompt. Any agent. Any IDE. Neutral or</text>
+<line x1="24" y1="268" x2="694" y2="268" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="280" text-anchor="middle" fill="#000000" font-size="11">5</text>
+<text x="174.0" y="280" text-anchor="middle" fill="#000000" font-size="11">Piebald-AI/claude-code-sy...</text>
+<text x="324.0" y="280" text-anchor="middle" fill="#000000" font-size="11">5,083</text>
+<text x="396.0" y="280" text-anchor="middle" fill="#000000" font-size="11">+15</text>
+<text x="561.0" y="280" text-anchor="middle" fill="#000000" font-size="11">All parts of Claude Code's system</text>
+<text x="561.0" y="294" text-anchor="middle" fill="#000000" font-size="11">prompt, 18 builtin tool descriptions, </text>
+<line x1="24" y1="314" x2="694" y2="314" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="326" text-anchor="middle" fill="#000000" font-size="11">6</text>
+<text x="174.0" y="326" text-anchor="middle" fill="#000000" font-size="11">agentsmd/agents.md</text>
+<text x="324.0" y="326" text-anchor="middle" fill="#000000" font-size="11">18,322</text>
+<text x="396.0" y="326" text-anchor="middle" fill="#000000" font-size="11">+12</text>
+<text x="561.0" y="326" text-anchor="middle" fill="#000000" font-size="11">AGENTS.md — a simple, open format</text>
+<text x="561.0" y="340" text-anchor="middle" fill="#000000" font-size="11">for guiding coding agents</text>
+<line x1="24" y1="360" x2="694" y2="360" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="372" text-anchor="middle" fill="#000000" font-size="11">7</text>
+<text x="174.0" y="372" text-anchor="middle" fill="#000000" font-size="11">gadievron/raptor</text>
+<text x="324.0" y="372" text-anchor="middle" fill="#000000" font-size="11">1,282</text>
+<text x="396.0" y="372" text-anchor="middle" fill="#000000" font-size="11">+10</text>
+<text x="561.0" y="372" text-anchor="middle" fill="#000000" font-size="11">Raptor turns Claude Code into a</text>
+<text x="561.0" y="386" text-anchor="middle" fill="#000000" font-size="11">general-purpose AI offensive/defensive s</text>
+<line x1="24" y1="406" x2="694" y2="406" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="418" text-anchor="middle" fill="#000000" font-size="11">8</text>
+<text x="174.0" y="418" text-anchor="middle" fill="#000000" font-size="11">PatrickJS/awesome-cursorr...</text>
+<text x="324.0" y="418" text-anchor="middle" fill="#000000" font-size="11">38,153</text>
+<text x="396.0" y="418" text-anchor="middle" fill="#000000" font-size="11">+6</text>
+<text x="561.0" y="418" text-anchor="middle" fill="#000000" font-size="11">📄  Configuration files that enhance</text>
+<text x="561.0" y="432" text-anchor="middle" fill="#000000" font-size="11">Cursor AI editor experience with cus</text>
+<line x1="24" y1="452" x2="694" y2="452" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="464" text-anchor="middle" fill="#000000" font-size="11">9</text>
+<text x="174.0" y="464" text-anchor="middle" fill="#000000" font-size="11">TheDecipherist/claude-cod...</text>
+<text x="324.0" y="464" text-anchor="middle" fill="#000000" font-size="11">412</text>
+<text x="396.0" y="464" text-anchor="middle" fill="#000000" font-size="11">+6</text>
+<text x="561.0" y="464" text-anchor="middle" fill="#000000" font-size="11">The complete guide to Claude Code:</text>
+<text x="561.0" y="478" text-anchor="middle" fill="#000000" font-size="11">CLAUDE.md, hooks, skills, MCP servers</text>
+<line x1="24" y1="498" x2="694" y2="498" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="510" text-anchor="middle" fill="#000000" font-size="11">10</text>
+<text x="174.0" y="510" text-anchor="middle" fill="#000000" font-size="11">enulus/OpenPackage</text>
+<text x="324.0" y="510" text-anchor="middle" fill="#000000" font-size="11">383</text>
+<text x="396.0" y="510" text-anchor="middle" fill="#000000" font-size="11">+5</text>
+<text x="561.0" y="510" text-anchor="middle" fill="#000000" font-size="11">The open, universal, coding agent</text>
+<text x="561.0" y="524" text-anchor="middle" fill="#000000" font-size="11">skills, agents, rules, and commands or</text>
+<line x1="24" y1="544" x2="694" y2="544" stroke="#d0d7de" stroke-width="0.5"/>
+<a xlink:href="https://github.com/lllray/awesome-cursor-rules"><text x="694" y="708" text-anchor="end" fill="#57606a" font-size="10">github.com/lllray/awesome-cursor-...</text></a>
+</svg>
