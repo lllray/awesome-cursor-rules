@@ -4,7 +4,7 @@
 
 > Curated collection of Cursor, Windsurf & IDE rules — auto-collected from GitHub
 
-![Total](https://img.shields.io/badge/Total-802-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1339k%2B-yellow?style=flat-square) ![Today](https://img.shields.io/badge/Today-802-green?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-03-01-orange?style=flat-square)
+![Total](https://img.shields.io/badge/Total-802-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1339k%2B-yellow?style=flat-square) ![Today](https://img.shields.io/badge/Today-0-green?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-03-02-orange?style=flat-square)
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 🔥 Daily Trending (2026-03-01)
+## 🔥 Daily Trending (2026-03-02)
 
 | # | Project | ⭐ | 📈 Gain | Description |
 |:-:|---------|---:|-------:|-------------|
@@ -39,21 +39,21 @@
 | 3 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 23,031 | +22 | Community-contributed instructions, prompts, and configurati |
 | 4 | [mco-org/mco](https://github.com/mco-org/mco) | 76 | +19 | Orchestrate AI coding agents. Any prompt. Any agent. Any IDE |
 | 5 | [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) | 5,083 | +15 | All parts of Claude Code's system prompt, 18 builtin tool de |
-| 6 | [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | 18,322 | +12 | AGENTS.md — a simple, open format for guiding coding agents |
-| 7 | [gadievron/raptor](https://github.com/gadievron/raptor) | 1,282 | +10 | Raptor turns Claude Code into a general-purpose AI offensive |
-| 8 | [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 38,153 | +6 | 📄  Configuration files that enhance Cursor AI editor experie |
-| 9 | [TheDecipherist/claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery) | 412 | +6 | The complete guide to Claude Code: CLAUDE.md, hooks, skills, |
-| 10 | [enulus/OpenPackage](https://github.com/enulus/OpenPackage) | 383 | +5 | The open, universal, coding agent skills, agents, rules, and |
-| 11 | [adenaufal/anti-slop-writing](https://github.com/adenaufal/anti-slop-writing) | 11 | +5 | Stop your AI from writing like AI. A universal system prompt |
-| 12 | [refly-ai/refly](https://github.com/refly-ai/refly) | 6,863 | +4 | The first open-source agent skills builder. Define skills by |
-| 13 | [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) | 1,195 | +4 | Customize Claude Code's system prompts, create custom toolse |
-| 14 | [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) | 266 | +4 | A CLAUDE.md Generator and Maintenance tool for for Claude Co |
-| 15 | [GCWing/BitFun](https://github.com/GCWing/BitFun) | 265 | +4 | BitFun is an Agentic Development Environment (ADE，AI IDE) fe |
-| 16 | [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) | 4,904 | +3 | Backlog.md - A tool for managing project collaboration betwe |
-| 17 | [BayramAnnakov/claude-reflect](https://github.com/BayramAnnakov/claude-reflect) | 766 | +3 | A self-learning system for Claude Code that captures correct |
-| 18 | [prompt-security/clawsec](https://github.com/prompt-security/clawsec) | 546 | +3 | A complete security skill suite for OpenClaw's and NanoClaw  |
-| 19 | [arpitg1304/robotics-agent-skills](https://github.com/arpitg1304/robotics-agent-skills) | 105 | +3 | Agent skills that make AI coding assistants write production |
-| 20 | [ThaddaeusSandidge/BorisChernyClaudeMarkdown](https://github.com/ThaddaeusSandidge/BorisChernyClaudeMarkdown) | 64 | +3 | A template CLAUDE.md file implementing Agentic Context Engin |
+| 6 | [gadievron/raptor](https://github.com/gadievron/raptor) | 1,282 | +10 | Raptor turns Claude Code into a general-purpose AI offensive |
+| 7 | [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 38,153 | +6 | 📄  Configuration files that enhance Cursor AI editor experie |
+| 8 | [TheDecipherist/claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery) | 412 | +6 | The complete guide to Claude Code: CLAUDE.md, hooks, skills, |
+| 9 | [enulus/OpenPackage](https://github.com/enulus/OpenPackage) | 383 | +5 | The open, universal, coding agent skills, agents, rules, and |
+| 10 | [adenaufal/anti-slop-writing](https://github.com/adenaufal/anti-slop-writing) | 11 | +5 | Stop your AI from writing like AI. A universal system prompt |
+| 11 | [refly-ai/refly](https://github.com/refly-ai/refly) | 6,863 | +4 | The first open-source agent skills builder. Define skills by |
+| 12 | [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) | 1,195 | +4 | Customize Claude Code's system prompts, create custom toolse |
+| 13 | [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) | 266 | +4 | A CLAUDE.md Generator and Maintenance tool for for Claude Co |
+| 14 | [GCWing/BitFun](https://github.com/GCWing/BitFun) | 265 | +4 | BitFun is an Agentic Development Environment (ADE，AI IDE) fe |
+| 15 | [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) | 4,904 | +3 | Backlog.md - A tool for managing project collaboration betwe |
+| 16 | [prompt-security/clawsec](https://github.com/prompt-security/clawsec) | 546 | +3 | A complete security skill suite for OpenClaw's and NanoClaw  |
+| 17 | [arpitg1304/robotics-agent-skills](https://github.com/arpitg1304/robotics-agent-skills) | 105 | +3 | Agent skills that make AI coding assistants write production |
+| 18 | [ThaddaeusSandidge/BorisChernyClaudeMarkdown](https://github.com/ThaddaeusSandidge/BorisChernyClaudeMarkdown) | 64 | +3 | A template CLAUDE.md file implementing Agentic Context Engin |
+| 19 | [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | 13,457 | +2 | A 100% free modern JS SaaS boilerplate (React, NodeJS, Prism |
+| 20 | [microsoft/skills](https://github.com/microsoft/skills) | 1,556 | +2 | Skills, MCP servers, Custom Agents, Agents.md for SDKs to gr |
 
 ---
 
@@ -457,4 +457,4 @@ Pull requests welcome!
 
 ---
 
-<p align="center"><sub>✨ Auto-curated · 2026-03-01 23:13:11</sub></p>
+<p align="center"><sub>✨ Auto-curated · 2026-03-02 20:49:10</sub></p>

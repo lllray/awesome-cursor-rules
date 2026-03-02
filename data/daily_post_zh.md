@@ -1,6 +1,6 @@
-# 每日报告 2026-03-01
+# 每日报告 2026-03-02
 - 仓库: Awesome Cursor Rules
-- 今日新增: 802 | 总数: 802 | Stars: 1,339,637
+- 今日新增: 0 | 总数: 802 | Stars: 1,339,637
 - 链接: https://github.com/lllray/awesome-cursor-rules
 
 ## 热门 Top 5
