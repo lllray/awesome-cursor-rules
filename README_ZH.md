@@ -35,25 +35,25 @@
 | # | 项目 | ⭐ | 📈 日增 | 描述 |
 |:-:|------|---:|-------:|------|
 | 1 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 127,125 | +393 | 完整增强代码,克劳德代码,克鲁利,代码Buddy,彗星,课程,德文AI,朱尼,基罗,Leap.new... |
-| 2 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 23,176 | +145 | 社区贡献的指令、提示和配置，帮助您充分利用 GitHub Copilot。 |
+| 2 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 23,176 | +145 | 社区贡献的指令、提示和配置，帮助您充分利用GitHub Copilot。 |
 | 3 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 8,651 | +140 | 程序员鱼皮的AI 资源大全 + 振动编码 零基础教程,分享大模型选择指南(DeepSeek / GP... |
-| 4 | [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) | 5,175 | +92 | All parts of Claude Code's system prompt, 18 built... |
-| 5 | [gadievron/raptor](https://github.com/gadievron/raptor) | 1,331 | +49 | Raptor turns Claude Code into a general-purpose AI... |
-| 6 | [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 38,185 | +32 |  通过定制规则和行为来增强Cursor AI编辑体验的配置文件 |
-| 7 | [mco-org/mco](https://github.com/mco-org/mco) | 102 | +26 | Orchestrate AI coding agents. Any prompt. Any agen... |
-| 8 | [GCWing/BitFun](https://github.com/GCWing/BitFun) | 290 | +25 | BitFun is an Agentic Development Environment (ADE，... |
-| 9 | [adenaufal/anti-slop-writing](https://github.com/adenaufal/anti-slop-writing) | 31 | +20 | Stop your AI from writing like AI. A universal sys... |
-| 10 | [TheDecipherist/claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery) | 430 | +18 | The complete guide to Claude Code: CLAUDE.md, hook... |
+| 4 | [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) | 5,175 | +92 | 所有部分的CLAUDE Code系统提示,18个构建工具描述,子代理提示 (计划/探索/任务),实用... |
+| 5 | [gadievron/raptor](https://github.com/gadievron/raptor) | 1,331 | +49 | Raptor将Claude Code转变为通用AI攻防安全代理。通过使用Claude.md并创建规则... |
+| 6 | [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 38,185 | +32 | 📄 通过自定义规则和行为增强Cursor AI编辑器体验的配置文件 |
+| 7 | [mco-org/mco](https://github.com/mco-org/mco) | 102 | +26 | 协调AI编码代理。任何提示。任何代理。任何IDE。Claude Code、Codex CLI、Gem... |
+| 8 | [GCWing/BitFun](https://github.com/GCWing/BitFun) | 290 | +25 | BitFun是一个代理开发环境（ADE，AI IDE），具有前沿的代码代理系统，包含四种模式——代理... |
+| 9 | [adenaufal/anti-slop-writing](https://github.com/adenaufal/anti-slop-writing) | 31 | +20 | 阻止你的AI写出AI风格。一个通用系统提示，消除所有已知的LLM风格特征——适用于Claude Co... |
+| 10 | [TheDecipherist/claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery) | 430 | +18 | 克劳德代码的完整指南:CLAUDE.md,,技能,MCP服务器和命令 |
 | 11 | [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) | 13,037 | +16 | 泄露的系统提示:CHATGPT,GEMINI,GROK,CLAUDE,PERPLEXITY,CURS... |
-| 12 | [microsoft/skills](https://github.com/microsoft/skills) | 1,571 | +15 | Skills, MCP servers, Custom Agents, Agents.md for ... |
-| 13 | [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) | 1,209 | +14 | Customize Claude Code's system prompts, create cus... |
-| 14 | [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) | 4,916 | +12 | Backlog.md - A tool for managing project collabora... |
-| 15 | [refly-ai/refly](https://github.com/refly-ai/refly) | 6,874 | +11 | 建立Clawdbot · API 对于可爱的 · 机器人对于 Slack & Lark/Feishu... |
-| 16 | [enulus/OpenPackage](https://github.com/enulus/OpenPackage) | 393 | +10 | The open, universal, coding agent skills, agents, ... |
-| 17 | [prompt-security/clawsec](https://github.com/prompt-security/clawsec) | 555 | +9 | A complete security skill suite for OpenClaw's and... |
-| 18 | [IsHexx/system-prompts-and-models-of-ai-tools-chinese](https://github.com/IsHexx/system-prompts-and-models-of-ai-tools-chinese) | 928 | +8 | AI编程工具中文提示词合集，包含Cursor、Devin、VSCode Agent等多种AI编程工具... |
-| 19 | [originalankur/GenerateAgents.md](https://github.com/originalankur/GenerateAgents.md) | 227 | +8 | Automated generation of comprehensive Agents.md fo... |
-| 20 | [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) | 273 | +7 | A CLAUDE.md Generator and Maintenance tool for for... |
+| 12 | [microsoft/skills](https://github.com/microsoft/skills) | 1,571 | +15 | 技能、MCP服务器、自定义代理、用于SDK以落地编码代理的Agents.md |
+| 13 | [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) | 1,209 | +14 | 定制Claude Code的系统提示，创建自定义工具集、输入模式高亮器、主题/思考动词/旋转器，定制... |
+| 14 | [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) | 4,916 | +12 | 后载.md - 在 Git 生态系统中管理人类和人工智能代理人之间的项目合作工具 |
+| 15 | [refly-ai/refly](https://github.com/refly-ai/refly) | 6,874 | +11 | 首个开源代理技能构建器。通过氛围工作流定义技能，在Claude Code、Cursor、Codex等... |
+| 16 | [enulus/OpenPackage](https://github.com/enulus/OpenPackage) | 393 | +10 | 开放,通用,编码代理技能,代理,规则,命令组织者和包管理者. |
+| 17 | [prompt-security/clawsec](https://github.com/prompt-security/clawsec) | 555 | +9 | 保护你的SOUL.md (等) 通过漂移检测,现场安全建议,自动审计和技能完整性验证.所有这些都从一... |
+| 18 | [IsHexx/system-prompts-and-models-of-ai-tools-chinese](https://github.com/IsHexx/system-prompts-and-models-of-ai-tools-chinese) | 928 | +8 | 包含Cursor、Devin、VSCode Agent等多种AI编程工具的提示词,为中文开发人员提供... |
+| 19 | [originalankur/GenerateAgents.md](https://github.com/originalankur/GenerateAgents.md) | 227 | +8 | 由DSPy递归语言模型实现驱动的LLM全面Agents.md自动生成。 |
+| 20 | [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) | 273 | +7 | 为了创建高质量的CLAUDE.md指令文件, 与Anthropic的最佳做法一致. |
 
 ---
 
@@ -466,4 +466,4 @@ git clone https://github.com/lllray/awesome-cursor-rules.git
 
 ---
 
-<p align="center"><sub>✨ 自动整理 · 2026-03-02 21:34:23</sub></p>
+<p align="center"><sub>✨ 自动整理 · 2026-03-02 21:51:18</sub></p>

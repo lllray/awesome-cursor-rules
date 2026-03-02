@@ -17584,36 +17584,26 @@
     }
   },
   "translations": {
-    "The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are infrastructure, not prompts.": "建立Clawdbot · API 对于可爱的 · 机器人对于 Slack & Lark/Feishu · 技能是基础设施,而不是提示.",
-    "LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐": "泄露的系统提示:CHATGPT,GEMINI,GROK,CLAUDE,PERPLEXITY,CURSOR,DIVIN,REPLIT,还有更多!",
-    ":memo: An awesome Data Science repository to learn and apply for real world problems.": "让我们学习和应对现实世界的问题.",
-    "📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors": " 通过定制规则和行为来增强Cursor AI编辑体验的配置文件",
-    "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models": "完整增强代码,克劳德代码,克鲁利,代码Buddy,彗星,课程,德文AI,朱尼,基罗,Leap.new,可爱,曼努斯,NotionAI,Orchids.app,迷,Poke,科德,复制,Same.dev,Trae,Traycer AI,VSCode代理,Warp.dev,风暴,Xcode,Zai代码,Dia & v0. (和其他开源) 系统提示,内部工具 & AI 模型",
-    "A curated list of software and architecture related design patterns.": "软件和建筑相关设计模式的整理列表.",
-    "Learn System Design concepts and prepare for interviews using free resources.": "学习系统设计概念,并使用免费资源准备面试.",
-    "An extremely fast Python package and project manager, written in Rust.": "非常快的 Python 包和项目管理器,用 Rust 编写.",
-    "A list of awesome beginners-friendly projects.": "对于初学者来说,这是一个非常好的项目.",
-    "A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.": "现代JS SaaS炉板 (React, NodeJS, Prisma). 功能齐全:作者 (电子邮件,谷歌,吉塔布,slack,MS),电子邮件发送,背景工作,登陆页面,支付 (Stripe,Polar.sh),Shadcn UI,S3文件上传. AI-ready 配备定制的 AGENTS.md,技能和Claude Code插件.一个cmd部署.由Wasp全堆框架支持.",
-    "The AI Code Editor": "人工智能代码编辑器",
+    "Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations.": "Raptor将Claude Code转变为通用AI攻防安全代理。通过使用Claude.md并创建规则、子代理和技能，协调安全工具的使用，我们配置代理进行对抗性思维，并执行研究或攻防操作。",
+    "📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors": "📄 通过自定义规则和行为增强Cursor AI编辑器体验的配置文件",
+    "Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock private/unreleased features, and much more.  Supports both native/npm installs on all platforms.": "定制Claude Code的系统提示，创建自定义工具集、输入模式高亮器、主题/思考动词/旋转器，定制输入框和用户消息样式，支持AGENTS.md，解锁私有/未发布功能等。支持所有平台的原生/npm安装。",
+    "Stop your AI from writing like AI. A universal system prompt eliminating every known LLM style tell — works with Claude Code, Gemini CLI, Codex CLI, Copilot, Cursor, and any web AI.": "阻止你的AI写出AI风格。一个通用系统提示，消除所有已知的LLM风格特征——适用于Claude Code、Gemini CLI、Codex CLI、Copilot、Cursor和任何Web AI。",
+    "Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents": "技能、MCP服务器、自定义代理、用于SDK以落地编码代理的Agents.md",
+    "Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation.": "由DSPy递归语言模型实现驱动的LLM全面Agents.md自动生成。",
+    "The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are infrastructure, not prompts.": "首个开源代理技能构建器。通过氛围工作流定义技能，在Claude Code、Cursor、Codex等平台上运行。构建Clawdbot 🦞· 为Lovable提供API· Slack和Lark/飞书的机器人· 技能是基础设施，而非提示。",
+    "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.": "社区贡献的指令、提示和配置，帮助您充分利用GitHub Copilot。",
+    "BitFun is an Agentic Development Environment (ADE，AI IDE) featuring a cutting-edge Code Agent system with four modes — Agentic, Plan, Debug, and Review. Extensible via MCP, Skills, custom Agents and Rules. Built with Rust + TypeScript for an ultra-lightweight, fluid cross-platform experience.": "BitFun是一个代理开发环境（ADE，AI IDE），具有前沿的代码代理系统，包含四种模式——代理、计划、调试和审查。可通过MCP、技能、自定义代理和规则进行扩展。采用Rust + TypeScript构建，提供超轻量、流畅的跨平台体验。",
+    "Orchestrate AI coding agents. Any prompt. Any agent. Any IDE. Neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code — works from Cursor, Trae, Copilot, Windsurf, or plain shell.": "协调AI编码代理。任何提示。任何代理。任何IDE。Claude Code、Codex CLI、Gemini CLI、OpenCode、Qwen Code的中立协调层——适用于Cursor、Trae、Copilot、Windsurf或普通Shell。",
+    "All parts of Claude Code's system prompt, 18 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.": "所有部分的CLAUDE Code系统提示,18个构建工具描述,子代理提示 (计划/探索/任务),实用程序提示 (CLAUDE.md,紧,状态线,魔术文件,WebFetch,Bash cmd,安全审查,代理创建). 每个CLAUDE Code版本更新.",
+    "The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP servers, and commands": "克劳德代码的完整指南:CLAUDE.md,,技能,MCP服务器和命令",
+    "AI编程工具中文提示词合集，包含Cursor、Devin、VSCode Agent等多种AI编程工具的提示词，为中文开发者提供AI辅助编程参考资源。持续更新中文编程Rules和最新AI编程提示词。": "包含Cursor、Devin、VSCode Agent等多种AI编程工具的提示词,为中文开发人员提供AI辅助编程参考资源──持续更新中文编程规则和最新AI编程提示词──",
     "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站": "程序员鱼皮的AI 资源大全 + 振动编码 零基础教程,分享大模型选择指南(DeepSeek / GPT / Gemini / Claude) 、最新AI 资讯、快提示词大全、AI 知识百科(RAG / MCP / A2A) 、AI 编程教程、AI 工具用法(Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills) 、AI 开发框架教程(Spring AI / LangChain) 、AI 产品变化,南你快速掌握AI 技术,走在时代前沿――本项目为开源文档版本,已升级为AI 导航网站指导",
-    "Collection of TypeScript type challenges with online judge": "Collection of TypeScript type challenges with online judge",
-    "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems": "可扩展、可靠、高性能大规模系统的模式",
-    "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups": "为首席技术官精心策划且带有主观倾向的资源列表，重点关注初创企业",
-    "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.": "社区贡献的指令、提示和配置，帮助您充分利用 GitHub Copilot。",
-    "The best design tools and plugins for everything 👉": "最佳设计工具和插件，适用于一切 👉",
-    "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.": "使用 OpenAI、Anthropic、Gemini 及开源模型，集成 AI 智能体和 RAG 的精选大型语言模型应用集合。",
-    "An opinionated list of awesome Python frameworks, libraries, software and resources.": "一份带有主观倾向的精选 Python 框架、库、软件和资源列表。",
-    "Integrate the DeepSeek API into popular software": "将 DeepSeek API 集成到流行软件中",
-    "Centralized AI coding guidelines and configuration for all my projects.": "对于所有我的项目来说,",
-    "Generate CLAUDE.md and .cursorrules from your codebase. Zero dependencies.": "从你的代码库生成CLAUDE.md和.cursorrules. 零依赖.",
-    "Context engineering patterns and templates for AI coding agents. CLAUDE.md / AGENTS.md examples from single-file through agent teams with Jira integration.": "基于AI编码代理的文本工程模式和模板.从单个文件到Jira集成的代理团队的CLAUDE.md / AGENTS.md示例.",
-    "A meta-prompting system that transforms raw prompts into production-ready, XML-structured prompts optimized for Claude Opus 4.6. 10 codified rules, 10-component framework, complexity-based routing — based on Anthropic's official best practices.": "转换原始提示成为生产准备的XML结构提示,优化为Claude Opus 4.6. 10个编码规则,10个组件框架,基于Anthropic官方最佳实践的复杂性路由.",
-    "A set of rules/conventions for Spec-Driven Development (SDD) - where specs are the source of truth, not code. Designed for teams where AI write most of the code. Work with any workflow (spec-kit, BMAD, superpower,...) or any AI Agents (Claude, Cursor, Antigravity,...) you prefer.": "规则/公约的集合 - - 规范是真相来源,而不是代码. 设计为 AI 编写大部分代码的团队. 与任何工作流程 (规范套件,BMAD,超级强力,...) 或任何 AI 代理 (Claude,Cursor,Antigravity,...) 工作.",
-    "Guides agents through creating, validating, and optimizing Agent Skills (SKILL.md files) from user requests.": "通过从用户请求中创建,验证和优化代理技能 (SKILL.md文件) 引导代理人.",
-    "🤯  Stop AI agents from leaving zombie terminals in GitHub Codespaces & VS Code. Copy-paste terminal management rules for Copilot, Claude, Gemini, Cursor, Windsurf, Cline, Aider. Fix \"terminal unresponsive\" errors, agent refusing to run commands, isBackground true, kill_terminal. Install script + dev container + templates.": "阻止AI代理在 GitHub 代码空间和VS 代码中离开尸终端.复制并粘贴Copyilot,Claude,Gemini,Cursor,Windsurf,Cline,Aider的终端管理规则.修复\"终端不响应\"错误,代理拒绝运行命令,是背景真实的,杀_终端.安装脚本 + dev 容器 + 模板.",
-    "Official G42 recruitment hub for production-ready AI agents across Finance, Procurement, Marketing, and Human Capital. Seeking enterprise-grade integration and sovereign infrastructure compatibility. Details in AGENTS.md. Apply via careers.g42.ai": "寻求企业级集成和主权基础设施兼容性.详细信息在 AGENTS.md. 通过职业生涯.g42.ai申请",
-    "Production-ready spec driven development setup for AI coding agents in any repo with one command. Pre-configured with 11 agents, 22 skills, 18 rules, 25 commands & MCP integrations for Cursor, GitHub Copilot, Claude Code, Windsurf, Amp, Codex, Gemini CLI, Cline & OpenCode.": "预定配置为Cursor,GitHub Copilot,Claude Code,Windsurf,Amp,Codex,Gemini CLI,Cline & OpenCode. 预定配置为11个代理,22个技能,18个规则,25个命令和MCP集成.",
-    "Stop prompting your editor from scratch. Cursor rules built for AI engineers.": "停止从头开始提示你的编辑. 咒规则是为人工智能工程师而设计的."
+    "The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.": "开放,通用,编码代理技能,代理,规则,命令组织者和包管理者.",
+    "A complete security skill suite for OpenClaw's and NanoClaw agents (and variants). Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite.": "保护你的SOUL.md (等) 通过漂移检测,现场安全建议,自动审计和技能完整性验证.所有这些都从一个可安装的套件中.",
+    "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models": "完整增强代码,克劳德代码,克鲁利,代码Buddy,彗星,课程,德文AI,朱尼,基罗,Leap.new,可爱,曼努斯,NotionAI,Orchids.app,迷,Poke,科德,复制,Same.dev,Trae,Traycer AI,VSCode代理,Warp.dev,风暴,Xcode,Zai代码,Dia & v0. (和其他开源) 系统提示,内部工具 & AI 模型",
+    "Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem": "后载.md - 在 Git 生态系统中管理人类和人工智能代理人之间的项目合作工具",
+    "LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐": "泄露的系统提示:CHATGPT,GEMINI,GROK,CLAUDE,PERPLEXITY,CURSOR,DIVIN,REPLIT,还有更多!",
+    "A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.": "为了创建高质量的CLAUDE.md指令文件, 与Anthropic的最佳做法一致."
   },
   "daily": {
     "2026-03-01": {
@@ -18336,9 +18326,10 @@
   "meta": {
     "created": "2026-03-01 17:35:09",
     "total_collected": 813,
-    "last_updated": "2026-03-02 21:34:23"
+    "last_updated": "2026-03-02 21:51:18"
   },
   "translations_en": {
-    "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站": "Fish Skin's AI Resource Collection + Vibe Coding Beginner Tutorial, sharing a guide to choosing large models (DeepSeek / GPT / Gemini / Claude), the latest AI news, a comprehensive Prompt library, AI knowledge encyclopedia (RAG / MCP / A2A), AI programming tutorials, AI tool usage (Cursor / Claude Code / OpenClaw / TRAE /"
+    "AI编程工具中文提示词合集，包含Cursor、Devin、VSCode Agent等多种AI编程工具的提示词，为中文开发者提供AI辅助编程参考资源。持续更新中文编程Rules和最新AI编程提示词。": "A collection of Chinese prompt words for AI programming tools, including Cursor, Devin, VSCode Agent, and more, providing Chinese developers with AI-assisted programming reference resources. Continuously updating Chinese programming rules and the latest AI programming prompts.",
+    "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站": "Programmer Yupi's AI Resource Collection + Vibe Coding Beginner Tutorial, sharing large model selection guides (DeepSeek / GPT / Gemini / Claude), the latest AI news, comprehensive Prompt prompt words, AI knowledge encyclopedia (RAG / MCP / A2A), AI programming tutorials, AI tool usage (Cursor / Claude Code / OpenClaw"
   }
 }

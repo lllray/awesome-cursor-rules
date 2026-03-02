@@ -36,7 +36,7 @@
 |:-:|---------|---:|-------:|-------------|
 | 1 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 127,125 | +393 | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu |
 | 2 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 23,176 | +145 | Community-contributed instructions, prompts, and configurati |
-| 3 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 8,651 | +140 | Fish Skin's AI Resource Collection + Vibe Coding Beginner Tu |
+| 3 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 8,651 | +140 | Programmer Yupi's AI Resource Collection + Vibe Coding Begin |
 | 4 | [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) | 5,175 | +92 | All parts of Claude Code's system prompt, 18 builtin tool de |
 | 5 | [gadievron/raptor](https://github.com/gadievron/raptor) | 1,331 | +49 | Raptor turns Claude Code into a general-purpose AI offensive |
 | 6 | [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 38,185 | +32 | 📄  Configuration files that enhance Cursor AI editor experie |
@@ -51,7 +51,7 @@
 | 15 | [refly-ai/refly](https://github.com/refly-ai/refly) | 6,874 | +11 | The first open-source agent skills builder. Define skills by |
 | 16 | [enulus/OpenPackage](https://github.com/enulus/OpenPackage) | 393 | +10 | The open, universal, coding agent skills, agents, rules, and |
 | 17 | [prompt-security/clawsec](https://github.com/prompt-security/clawsec) | 555 | +9 | A complete security skill suite for OpenClaw's and NanoClaw  |
-| 18 | [IsHexx/system-prompts-and-models-of-ai-tools-chinese](https://github.com/IsHexx/system-prompts-and-models-of-ai-tools-chinese) | 928 | +8 | AI编程工具中文提示词合集，包含Cursor、Devin、VSCode Agent等多种AI编程工具的提示词，为中文开发 |
+| 18 | [IsHexx/system-prompts-and-models-of-ai-tools-chinese](https://github.com/IsHexx/system-prompts-and-models-of-ai-tools-chinese) | 928 | +8 | A collection of Chinese prompt words for AI programming tool |
 | 19 | [originalankur/GenerateAgents.md](https://github.com/originalankur/GenerateAgents.md) | 227 | +8 | Automated generation of comprehensive Agents.md for LLMs, dr |
 | 20 | [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) | 273 | +7 | A CLAUDE.md Generator and Maintenance tool for for Claude Co |
 
@@ -458,4 +458,4 @@ Pull requests welcome!
 
 ---
 
-<p align="center"><sub>✨ Auto-curated · 2026-03-02 21:34:23</sub></p>
+<p align="center"><sub>✨ Auto-curated · 2026-03-02 21:51:18</sub></p>
