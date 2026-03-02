@@ -34,17 +34,17 @@
 
 | # | 项目 | ⭐ | 📈 日增 | 描述 |
 |:-:|------|---:|-------:|------|
-| 1 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 126,732 | +109 | FULL Augment Code, Claude Code, Cluely, CodeBuddy,... |
-| 2 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 8,511 | +41 | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepS... |
-| 3 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 23,031 | +22 | Community-contributed instructions, prompts, and c... |
+| 1 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 126,732 | +109 | 完整增强代码,克劳德代码,克鲁利,代码Buddy,彗星,课程,德文AI,朱尼,基罗,Leap.new... |
+| 2 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 8,511 | +41 | 程序员鱼皮的AI 资源大全 + 振动编码 零基础教程,分享大模型选择指南(DeepSeek / GP... |
+| 3 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 23,031 | +22 | 社区贡献的指令、提示和配置，帮助您充分利用 GitHub Copilot。 |
 | 4 | [mco-org/mco](https://github.com/mco-org/mco) | 76 | +19 | Orchestrate AI coding agents. Any prompt. Any agen... |
 | 5 | [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) | 5,083 | +15 | All parts of Claude Code's system prompt, 18 built... |
 | 6 | [gadievron/raptor](https://github.com/gadievron/raptor) | 1,282 | +10 | Raptor turns Claude Code into a general-purpose AI... |
-| 7 | [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 38,153 | +6 | 📄  Configuration files that enhance Cursor AI edit... |
+| 7 | [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 38,153 | +6 |  通过定制规则和行为来增强Cursor AI编辑体验的配置文件 |
 | 8 | [TheDecipherist/claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery) | 412 | +6 | The complete guide to Claude Code: CLAUDE.md, hook... |
 | 9 | [enulus/OpenPackage](https://github.com/enulus/OpenPackage) | 383 | +5 | The open, universal, coding agent skills, agents, ... |
 | 10 | [adenaufal/anti-slop-writing](https://github.com/adenaufal/anti-slop-writing) | 11 | +5 | Stop your AI from writing like AI. A universal sys... |
-| 11 | [refly-ai/refly](https://github.com/refly-ai/refly) | 6,863 | +4 | The first open-source agent skills builder. Define... |
+| 11 | [refly-ai/refly](https://github.com/refly-ai/refly) | 6,863 | +4 | 建立Clawdbot · API 对于可爱的 · 机器人对于 Slack & Lark/Feishu... |
 | 12 | [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) | 1,195 | +4 | Customize Claude Code's system prompts, create cus... |
 | 13 | [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) | 266 | +4 | A CLAUDE.md Generator and Maintenance tool for for... |
 | 14 | [GCWing/BitFun](https://github.com/GCWing/BitFun) | 265 | +4 | BitFun is an Agentic Development Environment (ADE，... |
@@ -52,7 +52,7 @@
 | 16 | [prompt-security/clawsec](https://github.com/prompt-security/clawsec) | 546 | +3 | A complete security skill suite for OpenClaw's and... |
 | 17 | [arpitg1304/robotics-agent-skills](https://github.com/arpitg1304/robotics-agent-skills) | 105 | +3 | Agent skills that make AI coding assistants write ... |
 | 18 | [ThaddaeusSandidge/BorisChernyClaudeMarkdown](https://github.com/ThaddaeusSandidge/BorisChernyClaudeMarkdown) | 64 | +3 | A template CLAUDE.md file implementing Agentic Con... |
-| 19 | [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | 13,457 | +2 | A 100% free modern JS SaaS boilerplate (React, Nod... |
+| 19 | [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | 13,457 | +2 | 现代JS SaaS炉板 (React, NodeJS, Prisma). 功能齐全:作者 (电子邮件... |
 | 20 | [microsoft/skills](https://github.com/microsoft/skills) | 1,556 | +2 | Skills, MCP servers, Custom Agents, Agents.md for ... |
 
 ---
@@ -465,4 +465,4 @@ git clone https://github.com/lllray/awesome-cursor-rules.git
 
 ---
 
-<p align="center"><sub>✨ 自动整理 · 2026-03-02 20:49:10</sub></p>
+<p align="center"><sub>✨ 自动整理 · 2026-03-02 20:57:07</sub></p>

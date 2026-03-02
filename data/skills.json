@@ -17285,7 +17285,28 @@
       "category": "collection"
     }
   },
-  "translations": {},
+  "translations": {
+    "The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are infrastructure, not prompts.": "建立Clawdbot · API 对于可爱的 · 机器人对于 Slack & Lark/Feishu · 技能是基础设施,而不是提示.",
+    "LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐": "泄露的系统提示:CHATGPT,GEMINI,GROK,CLAUDE,PERPLEXITY,CURSOR,DIVIN,REPLIT,还有更多!",
+    ":memo: An awesome Data Science repository to learn and apply for real world problems.": "让我们学习和应对现实世界的问题.",
+    "📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors": " 通过定制规则和行为来增强Cursor AI编辑体验的配置文件",
+    "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models": "完整增强代码,克劳德代码,克鲁利,代码Buddy,彗星,课程,德文AI,朱尼,基罗,Leap.new,可爱,曼努斯,NotionAI,Orchids.app,迷,Poke,科德,复制,Same.dev,Trae,Traycer AI,VSCode代理,Warp.dev,风暴,Xcode,Zai代码,Dia & v0. (和其他开源) 系统提示,内部工具 & AI 模型",
+    "A curated list of software and architecture related design patterns.": "软件和建筑相关设计模式的整理列表.",
+    "Learn System Design concepts and prepare for interviews using free resources.": "学习系统设计概念,并使用免费资源准备面试.",
+    "An extremely fast Python package and project manager, written in Rust.": "非常快的 Python 包和项目管理器,用 Rust 编写.",
+    "A list of awesome beginners-friendly projects.": "对于初学者来说,这是一个非常好的项目.",
+    "A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.": "现代JS SaaS炉板 (React, NodeJS, Prisma). 功能齐全:作者 (电子邮件,谷歌,吉塔布,slack,MS),电子邮件发送,背景工作,登陆页面,支付 (Stripe,Polar.sh),Shadcn UI,S3文件上传. AI-ready 配备定制的 AGENTS.md,技能和Claude Code插件.一个cmd部署.由Wasp全堆框架支持.",
+    "The AI Code Editor": "人工智能代码编辑器",
+    "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站": "程序员鱼皮的AI 资源大全 + 振动编码 零基础教程,分享大模型选择指南(DeepSeek / GPT / Gemini / Claude) 、最新AI 资讯、快提示词大全、AI 知识百科(RAG / MCP / A2A) 、AI 编程教程、AI 工具用法(Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills) 、AI 开发框架教程(Spring AI / LangChain) 、AI 产品变化,南你快速掌握AI 技术,走在时代前沿――本项目为开源文档版本,已升级为AI 导航网站指导",
+    "Collection of TypeScript type challenges with online judge": "Collection of TypeScript type challenges with online judge",
+    "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems": "可扩展、可靠、高性能大规模系统的模式",
+    "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups": "为首席技术官精心策划且带有主观倾向的资源列表，重点关注初创企业",
+    "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.": "社区贡献的指令、提示和配置，帮助您充分利用 GitHub Copilot。",
+    "The best design tools and plugins for everything 👉": "最佳设计工具和插件，适用于一切 👉",
+    "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.": "使用 OpenAI、Anthropic、Gemini 及开源模型，集成 AI 智能体和 RAG 的精选大型语言模型应用集合。",
+    "An opinionated list of awesome Python frameworks, libraries, software and resources.": "一份带有主观倾向的精选 Python 框架、库、软件和资源列表。",
+    "Integrate the DeepSeek API into popular software": "将 DeepSeek API 集成到流行软件中"
+  },
   "daily": {
     "2026-03-01": {
       "date": "2026-03-01",
@@ -17649,7 +17670,9 @@
   "meta": {
     "created": "2026-03-01 17:35:09",
     "total_collected": 802,
-    "last_updated": "2026-03-02 20:49:10"
+    "last_updated": "2026-03-02 20:57:07"
   },
-  "translations_en": {}
+  "translations_en": {
+    "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站": "Fish Skin's AI Resource Collection + Vibe Coding Beginner Tutorial, sharing a guide to choosing large models (DeepSeek / GPT / Gemini / Claude), the latest AI news, a comprehensive Prompt library, AI knowledge encyclopedia (RAG / MCP / A2A), AI programming tutorials, AI tool usage (Cursor / Claude Code / OpenClaw / TRAE /"
+  }
 }

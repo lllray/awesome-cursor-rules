@@ -35,7 +35,7 @@
 | # | Project | ⭐ | 📈 Gain | Description |
 |:-:|---------|---:|-------:|-------------|
 | 1 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 126,732 | +109 | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu |
-| 2 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 8,511 | +41 | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT  |
+| 2 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 8,511 | +41 | Fish Skin's AI Resource Collection + Vibe Coding Beginner Tu |
 | 3 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 23,031 | +22 | Community-contributed instructions, prompts, and configurati |
 | 4 | [mco-org/mco](https://github.com/mco-org/mco) | 76 | +19 | Orchestrate AI coding agents. Any prompt. Any agent. Any IDE |
 | 5 | [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) | 5,083 | +15 | All parts of Claude Code's system prompt, 18 builtin tool de |
@@ -457,4 +457,4 @@ Pull requests welcome!
 
 ---
 
-<p align="center"><sub>✨ Auto-curated · 2026-03-02 20:49:10</sub></p>
+<p align="center"><sub>✨ Auto-curated · 2026-03-02 20:57:07</sub></p>
