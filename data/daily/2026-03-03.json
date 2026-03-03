@@ -1,0 +1,358 @@
+{
+  "date": "2026-03-03",
+  "total_skills": 820,
+  "total_stars": 1342312,
+  "new_today": 7,
+  "top_gainers": [
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 127503,
+      "delta": 366,
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "name": "github/awesome-copilot",
+      "stars": 23361,
+      "delta": 177,
+      "url": "https://github.com/github/awesome-copilot",
+      "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot."
+    },
+    {
+      "name": "liyupi/ai-guide",
+      "stars": 8773,
+      "delta": 120,
+      "url": "https://github.com/liyupi/ai-guide",
+      "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站"
+    },
+    {
+      "name": "Piebald-AI/claude-code-system-prompts",
+      "stars": 5234,
+      "delta": 57,
+      "url": "https://github.com/Piebald-AI/claude-code-system-prompts",
+      "description": "All parts of Claude Code's system prompt, 18 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version."
+    },
+    {
+      "name": "agentsmd/agents.md",
+      "stars": 18421,
+      "delta": 56,
+      "url": "https://github.com/agentsmd/agents.md",
+      "description": "AGENTS.md — a simple, open format for guiding coding agents"
+    },
+    {
+      "name": "GCWing/BitFun",
+      "stars": 291,
+      "delta": 26,
+      "url": "https://github.com/GCWing/BitFun",
+      "description": "BitFun is an Agentic Development Environment (ADE，AI IDE) featuring a cutting-edge Code Agent system with four modes — Agentic, Plan, Debug, and Review. Extensible via MCP, Skills, custom Agents and Rules. Built with Rust + TypeScript for an ultra-lightweight, fluid cross-platform experience."
+    },
+    {
+      "name": "PatrickJS/awesome-cursorrules",
+      "stars": 38209,
+      "delta": 23,
+      "url": "https://github.com/PatrickJS/awesome-cursorrules",
+      "description": "📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors"
+    },
+    {
+      "name": "MrLesk/Backlog.md",
+      "stars": 4936,
+      "delta": 20,
+      "url": "https://github.com/MrLesk/Backlog.md",
+      "description": "Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem"
+    },
+    {
+      "name": "microsoft/skills",
+      "stars": 1588,
+      "delta": 17,
+      "url": "https://github.com/microsoft/skills",
+      "description": "Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents"
+    },
+    {
+      "name": "awslabs/aidlc-workflows",
+      "stars": 536,
+      "delta": 13,
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents"
+    },
+    {
+      "name": "enulus/OpenPackage",
+      "stars": 406,
+      "delta": 13,
+      "url": "https://github.com/enulus/OpenPackage",
+      "description": "The open, universal, coding agent skills, agents, rules, and commands organizer and package manager."
+    },
+    {
+      "name": "elder-plinius/CL4R1T4S",
+      "stars": 13050,
+      "delta": 12,
+      "url": "https://github.com/elder-plinius/CL4R1T4S",
+      "description": "LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐"
+    },
+    {
+      "name": "gadievron/raptor",
+      "stars": 1343,
+      "delta": 12,
+      "url": "https://github.com/gadievron/raptor",
+      "description": "Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations."
+    },
+    {
+      "name": "alirezarezvani/ClaudeForge",
+      "stars": 283,
+      "delta": 10,
+      "url": "https://github.com/alirezarezvani/ClaudeForge",
+      "description": "A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code."
+    },
+    {
+      "name": "mergisi/awesome-openclaw-agents",
+      "stars": 70,
+      "delta": 10,
+      "url": "https://github.com/mergisi/awesome-openclaw-agents",
+      "description": "Curated list of AI agent templates for OpenClaw. Ready-to-use SOUL.md configs for productivity, development, marketing, and business agents. Deploy with CrewClaw."
+    },
+    {
+      "name": "refly-ai/refly",
+      "stars": 6883,
+      "delta": 9,
+      "url": "https://github.com/refly-ai/refly",
+      "description": "The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are infrastructure, not prompts."
+    },
+    {
+      "name": "centminmod/my-claude-code-setup",
+      "stars": 1932,
+      "delta": 8,
+      "url": "https://github.com/centminmod/my-claude-code-setup",
+      "description": "Shared starter template configuration and CLAUDE.md memory bank system for Claude Code"
+    },
+    {
+      "name": "Piebald-AI/tweakcc",
+      "stars": 1217,
+      "delta": 8,
+      "url": "https://github.com/Piebald-AI/tweakcc",
+      "description": "Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock private/unreleased features, and much more.  Supports both native/npm installs on all platforms."
+    },
+    {
+      "name": "twostraws/SwiftAgents",
+      "stars": 899,
+      "delta": 8,
+      "url": "https://github.com/twostraws/SwiftAgents",
+      "description": "An AGENTS.md file for Swift and SwiftUI projects."
+    },
+    {
+      "name": "mco-org/mco",
+      "stars": 113,
+      "delta": 8,
+      "url": "https://github.com/mco-org/mco",
+      "description": "Orchestrate AI coding agents. Any prompt. Any agent. Any IDE. Neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code — works from Cursor, Trae, Copilot, Windsurf, or plain shell."
+    },
+    {
+      "name": "wasp-lang/open-saas",
+      "stars": 13468,
+      "delta": 7,
+      "url": "https://github.com/wasp-lang/open-saas",
+      "description": "A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework."
+    },
+    {
+      "name": "krishnakanthb13/everything-antigravity",
+      "stars": 44,
+      "delta": 7,
+      "url": "https://github.com/krishnakanthb13/everything-antigravity",
+      "description": "Welcome to the central repository for the **Antigravity** ecosystem. This project houses a collection of AI Agents, Task Skills, and Coding Rules designed to enhance autonomous coding workflows."
+    },
+    {
+      "name": "liyupi/yu-ai-agent",
+      "stars": 1733,
+      "delta": 6,
+      "url": "https://github.com/liyupi/yu-ai-agent",
+      "description": "编程导航 2025 年 AI 开发实战新项目，基于 Spring Boot 3 + Java 21 + Spring AI 构建 AI 恋爱大师应用和 ReAct 模式自主规划智能体YuManus，覆盖 AI 大模型接入、Spring AI 核心特性、Prompt 工程和优化、RAG 检索增强、向量数据库、Tool Calling 工具调用、MCP 模型上下文协议、AI Agent 开发（Manas Java 实现）、Cursor AI 工具等核心知识。用一套教程将程序员必知必会的 AI 技术一网打尽，帮你成为 AI 时代企业的香饽饽，给你的简历和求职大幅增加竞争力。"
+    },
+    {
+      "name": "prompt-security/clawsec",
+      "stars": 561,
+      "delta": 6,
+      "url": "https://github.com/prompt-security/clawsec",
+      "description": "A complete security skill suite for OpenClaw's and NanoClaw agents (and variants). Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite."
+    },
+    {
+      "name": "intellectronica/ruler",
+      "stars": 2506,
+      "delta": 5,
+      "url": "https://github.com/intellectronica/ruler",
+      "description": "Ruler — apply the same rules to all coding agents"
+    },
+    {
+      "name": "rohitg00/awesome-claude-code-toolkit",
+      "stars": 625,
+      "delta": 5,
+      "url": "https://github.com/rohitg00/awesome-claude-code-toolkit",
+      "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more."
+    },
+    {
+      "name": "Code-and-Sorts/awesome-copilot-agents",
+      "stars": 414,
+      "delta": 5,
+      "url": "https://github.com/Code-and-Sorts/awesome-copilot-agents",
+      "description": "✨ A curated list of awesome GitHub instructions, prompt, skills and agent markdown files for enhancing your GitHub Copilot AI experience."
+    },
+    {
+      "name": "GPTomics/bioSkills",
+      "stars": 298,
+      "delta": 5,
+      "url": "https://github.com/GPTomics/bioSkills",
+      "description": "a set of SKILLS.md for doing bioinformatics with agents like claude code"
+    },
+    {
+      "name": "zhukunpenglinyutong/ai-max",
+      "stars": 189,
+      "delta": 5,
+      "url": "https://github.com/zhukunpenglinyutong/ai-max",
+      "description": "一键给Claude Code 提高智商，包含生产级 agents、skills、hooks、commands、rules 和 MCP 配置"
+    },
+    {
+      "name": "steipete/agent-rules",
+      "stars": 5607,
+      "delta": 4,
+      "url": "https://github.com/steipete/agent-rules",
+      "description": "Rules and Knowledge to work better with agents such as Claude Code or Cursor"
+    },
+    {
+      "name": "IsHexx/system-prompts-and-models-of-ai-tools-chinese",
+      "stars": 932,
+      "delta": 4,
+      "url": "https://github.com/IsHexx/system-prompts-and-models-of-ai-tools-chinese",
+      "description": "AI编程工具中文提示词合集，包含Cursor、Devin、VSCode Agent等多种AI编程工具的提示词，为中文开发者提供AI辅助编程参考资源。持续更新中文编程Rules和最新AI编程提示词。"
+    },
+    {
+      "name": "doramirdor/NadirClaw",
+      "stars": 255,
+      "delta": 4,
+      "url": "https://github.com/doramirdor/NadirClaw",
+      "description": "Smart LLM router that cuts AI costs by ~40%. Routes simple prompts to cheap/local models, complex ones to premium. Works with Claude Code, OpenClaw, Cursor. OpenAI-compatible proxy, runs locally."
+    },
+    {
+      "name": "arpitg1304/robotics-agent-skills",
+      "stars": 114,
+      "delta": 4,
+      "url": "https://github.com/arpitg1304/robotics-agent-skills",
+      "description": "Agent skills that make AI coding assistants write production-grade robotics software. ROS1, ROS2, design patterns, SOLID principles, and testing — for Claude Code, Cursor, Copilot, and any SKILL.md-compatible agent."
+    },
+    {
+      "name": "heyitsgoad/copilot-playground",
+      "stars": 11,
+      "delta": 4,
+      "url": "https://github.com/heyitsgoad/copilot-playground",
+      "description": "This is my hub for Copilot prompts, custom agents, and video guides. I share practical examples, build instructions, and tips to help you explore and apply AI-driven workflows. Everything in one place—easy to browse, learn, and use."
+    },
+    {
+      "name": "jarrodwatts/claude-code-config",
+      "stars": 955,
+      "delta": 3,
+      "url": "https://github.com/jarrodwatts/claude-code-config",
+      "description": "My personal Claude Code configuration - rules, hooks, agents, skills, and commands"
+    },
+    {
+      "name": "dyoshikawa/rulesync",
+      "stars": 839,
+      "delta": 3,
+      "url": "https://github.com/dyoshikawa/rulesync",
+      "description": "A Utility CLI for AI Coding Agents"
+    },
+    {
+      "name": "TheDecipherist/claude-code-mastery",
+      "stars": 434,
+      "delta": 3,
+      "url": "https://github.com/TheDecipherist/claude-code-mastery",
+      "description": "The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP servers, and commands"
+    },
+    {
+      "name": "ehmo/platform-design-skills",
+      "stars": 233,
+      "delta": 3,
+      "url": "https://github.com/ehmo/platform-design-skills",
+      "description": "Agent skills for building and evaluating apps against official design guidelines. 300+ actionable rules for iOS, iPadOS, macOS, watchOS, visionOS, tvOS, Android,   and Web — distilled from Apple HIG, Material Design 3, and WCAG 2.2. Works with Claude Code, Codex, and any agent that supports the Agent Skills format."
+    },
+    {
+      "name": "originalankur/GenerateAgents.md",
+      "stars": 230,
+      "delta": 3,
+      "url": "https://github.com/originalankur/GenerateAgents.md",
+      "description": "Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation."
+    },
+    {
+      "name": "johunsang/vive-md",
+      "stars": 202,
+      "delta": 3,
+      "url": "https://github.com/johunsang/vive-md",
+      "description": "바이브코딩용 CLAUDE.md 템플릿 & 워터폴 산출물 모음 (Spring Boot, Vue, React, Next.js, 보안, 디자인 시스템)"
+    },
+    {
+      "name": "microsoft/hve-core",
+      "stars": 147,
+      "delta": 3,
+      "url": "https://github.com/microsoft/hve-core",
+      "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots"
+    },
+    {
+      "name": "EliFuzz/awesome-system-prompts",
+      "stars": 110,
+      "delta": 3,
+      "url": "https://github.com/EliFuzz/awesome-system-prompts",
+      "description": "A collection of system prompts and tool definitions from various AI coding agents: Augment Code, Claude Code, Cluely, Cursor, Devin AI, Kiro, Perplexity, VSCode Agent, Gemini, Codex, OpenAI"
+    },
+    {
+      "name": "ThaddaeusSandidge/BorisChernyClaudeMarkdown",
+      "stars": 73,
+      "delta": 3,
+      "url": "https://github.com/ThaddaeusSandidge/BorisChernyClaudeMarkdown",
+      "description": "A template CLAUDE.md file implementing Agentic Context Engineering (ACE)"
+    },
+    {
+      "name": "msitarzewski/AGENT-ZERO",
+      "stars": 70,
+      "delta": 3,
+      "url": "https://github.com/msitarzewski/AGENT-ZERO",
+      "description": "Operational framework and patterns for high-quality, AI-assisted software development. This repository provides a single canonical guide for AGENTS.md and a lightweight workflow for repeatable, auditable, and architecture-first delivery."
+    },
+    {
+      "name": "ai-dashboad/flutter-skill",
+      "stars": 49,
+      "delta": 3,
+      "url": "https://github.com/ai-dashboad/flutter-skill",
+      "description": "AI-powered E2E testing for 10 platforms. 253 MCP tools. Zero config. Works with Claude, Cursor, Windsurf, Copilot. Test Flutter, React Native, iOS, Android, Web, Electron, Tauri, KMP, .NET MAUI — all from natural language."
+    },
+    {
+      "name": "indiesoftby/defold-agent-config",
+      "stars": 30,
+      "delta": 3,
+      "url": "https://github.com/indiesoftby/defold-agent-config",
+      "description": "An example configuration of AGENTS.md and a set of skills for AI-assisted game development with the https://defold.com engine."
+    },
+    {
+      "name": "nedcodes-ok/cursorrules-collection",
+      "stars": 13,
+      "delta": 3,
+      "url": "https://github.com/nedcodes-ok/cursorrules-collection",
+      "description": "110+ tested .mdc and .cursorrules files for Cursor AI. Validate with cursor-doctor, generate with rule-gen, convert with rule-porter."
+    },
+    {
+      "name": "kcolemangt/llm-router",
+      "stars": 381,
+      "delta": 2,
+      "url": "https://github.com/kcolemangt/llm-router",
+      "description": "Access models from OpenAI, Groq, local Ollama, and others by setting llm-router as Cursor's Base URL"
+    },
+    {
+      "name": "jabrena/cursor-rules-java",
+      "stars": 306,
+      "delta": 2,
+      "url": "https://github.com/jabrena/cursor-rules-java",
+      "description": "A collection of System prompts and Skills for Java that help software engineers & pipelines in their daily programming work."
+    },
+    {
+      "name": "Vishavjeet6/awesome-copilot-instructions",
+      "stars": 252,
+      "delta": 2,
+      "url": "https://github.com/Vishavjeet6/awesome-copilot-instructions",
+      "description": "Awesome Copilot Instructions"
+    }
+  ]
+}
