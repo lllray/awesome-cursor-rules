@@ -4,7 +4,7 @@
 
 > Curated collection of Cursor, Windsurf & IDE rules — auto-collected from GitHub
 
-![Total](https://img.shields.io/badge/Total-864-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1348k%2B-yellow?style=flat-square) ![Today](https://img.shields.io/badge/Today-6-green?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-03-07-orange?style=flat-square)
+![Total](https://img.shields.io/badge/Total-873-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1349k%2B-yellow?style=flat-square) ![Today](https://img.shields.io/badge/Today-9-green?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-03-08-orange?style=flat-square)
 
 ---
 
@@ -18,56 +18,56 @@
 
 | Category | Count | Share |
 |----------|------:|------:|
-| 📚 Rule Collections | 158 | ██████ 18.3% |
-| 🖥️ Frontend | 42 | █ 4.9% |
-| ⚙️ Backend | 130 | █████ 15.0% |
+| 📚 Rule Collections | 159 | ██████ 18.2% |
+| 🖥️ Frontend | 42 | █ 4.8% |
+| ⚙️ Backend | 131 | █████ 15.0% |
 | 📱 Mobile | 8 | █ 0.9% |
 | 🏗️ Full Stack | 27 | █ 3.1% |
 | ☁️ DevOps & Infra | 47 | █ 5.4% |
-| 🤖 Data & AI | 247 | █████████ 28.6% |
-| 🔧 Tools & Generators | 93 | ███ 10.8% |
-| 📦 Others | 112 | ████ 13.0% |
+| 🤖 Data & AI | 250 | █████████ 28.6% |
+| 🔧 Tools & Generators | 94 | ███ 10.8% |
+| 📦 Others | 115 | ████ 13.2% |
 
 ---
 
-## 🔥 Daily Trending (2026-03-07)
+## 🔥 Daily Trending (2026-03-08)
 
 | # | Project | ⭐ | 📈 Gain | Description |
 |:-:|---------|---:|-------:|-------------|
-| 1 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 129,187 | +390 | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu |
-| 2 | [microsoft/hve-core](https://github.com/microsoft/hve-core) | 665 | +213 | A refined collection of Hypervelocity Engineering components |
-| 3 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 24,016 | +110 | Community-contributed instructions, prompts, and configurati |
-| 4 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 9,153 | +61 | Programmer Yupi's AI Resource Collection + Vibe Coding Begin |
-| 5 | [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) | 5,452 | +44 | All parts of Claude Code's system prompt, 18 builtin tool de |
-| 6 | [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | 618 | +39 | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rul |
-| 7 | [twostraws/SwiftAgents](https://github.com/twostraws/SwiftAgents) | 958 | +29 | An AGENTS.md file for Swift and SwiftUI projects. |
-| 8 | [Mizoreww/awesome-claude-code-config](https://github.com/Mizoreww/awesome-claude-code-config) | 55 | +28 | Production-ready Claude Code configuration with self-improve |
-| 9 | [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) | 5,024 | +27 | Backlog.md - A tool for managing project collaboration betwe |
-| 10 | [GCWing/BitFun](https://github.com/GCWing/BitFun) | 291 | +26 | BitFun is an Agentic Development Environment (ADE，AI IDE) fe |
-| 11 | [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 38,300 | +18 | 📄  Configuration files that enhance Cursor AI editor experie |
-| 12 | [gadievron/raptor](https://github.com/gadievron/raptor) | 1,437 | +15 | Raptor turns Claude Code into a general-purpose AI offensive |
-| 13 | [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) | 1,252 | +11 | Customize Claude Code's system prompts, create custom toolse |
-| 14 | [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | 123 | +9 | Curated list of AI agent templates for OpenClaw. Ready-to-us |
-| 15 | [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) | 13,086 | +8 | LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PER |
-| 16 | [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) | 651 | +8 | The most comprehensive toolkit for Claude Code -- 135 agents |
-| 17 | [aakashg/pm-claude-code-setup](https://github.com/aakashg/pm-claude-code-setup) | 34 | +8 | Ready-to-use CLAUDE.md and starter skill for product manager |
-| 18 | [steipete/agent-rules](https://github.com/steipete/agent-rules) | 5,617 | +6 | Rules and Knowledge to work better with agents such as Claud |
-| 19 | [microsoft/skills](https://github.com/microsoft/skills) | 1,636 | +6 | Skills, MCP servers, Custom Agents, Agents.md for SDKs to gr |
-| 20 | [prompt-security/clawsec](https://github.com/prompt-security/clawsec) | 594 | +6 | A complete security skill suite for OpenClaw's and NanoClaw  |
+| 1 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 129,461 | +274 | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu |
+| 2 | [microsoft/hve-core](https://github.com/microsoft/hve-core) | 825 | +160 | A refined collection of Hypervelocity Engineering components |
+| 3 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 24,112 | +96 | Community-contributed instructions, prompts, and configurati |
+| 4 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 9,207 | +54 | Programmer Yupi's AI Resource Collection + Vibe Coding Begin |
+| 5 | [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) | 5,504 | +52 | All parts of Claude Code's system prompt, 18 builtin tool de |
+| 6 | [prompt-security/clawsec](https://github.com/prompt-security/clawsec) | 635 | +41 | A complete security skill suite for OpenClaw's and NanoClaw  |
+| 7 | [GCWing/BitFun](https://github.com/GCWing/BitFun) | 291 | +26 | BitFun is an Agentic Development Environment (ADE，AI IDE) fe |
+| 8 | [Mizoreww/awesome-claude-code-config](https://github.com/Mizoreww/awesome-claude-code-config) | 79 | +24 | Production-ready Claude Code configuration with self-improve |
+| 9 | [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) | 5,041 | +17 | Backlog.md - A tool for managing project collaboration betwe |
+| 10 | [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 38,315 | +15 | 📄  Configuration files that enhance Cursor AI editor experie |
+| 11 | [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | 135 | +12 | Curated list of AI agent templates for OpenClaw. Ready-to-us |
+| 12 | [microsoft/skills](https://github.com/microsoft/skills) | 1,645 | +9 | Skills, MCP servers, Custom Agents, Agents.md for SDKs to gr |
+| 13 | [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) | 1,261 | +9 | Customize Claude Code's system prompts, create custom toolse |
+| 14 | [twostraws/SwiftAgents](https://github.com/twostraws/SwiftAgents) | 966 | +8 | An AGENTS.md file for Swift and SwiftUI projects. |
+| 15 | [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | 625 | +7 | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rul |
+| 16 | [gadievron/raptor](https://github.com/gadievron/raptor) | 1,443 | +6 | Raptor turns Claude Code into a general-purpose AI offensive |
+| 17 | [aakashg/pm-claude-code-setup](https://github.com/aakashg/pm-claude-code-setup) | 40 | +6 | Ready-to-use CLAUDE.md and starter skill for product manager |
+| 18 | [liyupi/yu-ai-agent](https://github.com/liyupi/yu-ai-agent) | 1,780 | +5 | 编程导航 2025 年 AI 开发实战新项目，基于 Spring Boot 3 + Java 21 + Spring A |
+| 19 | [doramirdor/NadirClaw](https://github.com/doramirdor/NadirClaw) | 271 | +5 | Smart LLM router that cuts AI costs by ~40%. Routes simple p |
+| 20 | [EliFuzz/awesome-system-prompts](https://github.com/EliFuzz/awesome-system-prompts) | 120 | +5 | A collection of system prompts and tool definitions from var |
 
 ---
 
 ## 📁 Categories
 
-- [📚 Rule Collections](#collection) (158)
+- [📚 Rule Collections](#collection) (159)
 - [🖥️ Frontend](#frontend) (42)
-- [⚙️ Backend](#backend) (130)
+- [⚙️ Backend](#backend) (131)
 - [📱 Mobile](#mobile) (8)
 - [🏗️ Full Stack](#fullstack) (27)
 - [☁️ DevOps & Infra](#devops) (47)
-- [🤖 Data & AI](#data-ai) (247)
-- [🔧 Tools & Generators](#tools) (93)
-- [📦 Others](#other) (112)
+- [🤖 Data & AI](#data-ai) (250)
+- [🔧 Tools & Generators](#tools) (94)
+- [📦 Others](#other) (115)
 
 ---
 
@@ -82,39 +82,39 @@
 | [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) | 47,726 | TypeScript | Collection of TypeScript type challenges with online judge |
 | [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) | 46,225 | - | A curated list of software and architecture related design patterns. |
 | [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) | 39,149 | JavaScript | The best design tools and plugins for everything 👉 |
-| [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 38,300 | MDX | 📄  Configuration files that enhance Cursor AI editor experience with c |
+| [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 38,315 | MDX | 📄  Configuration files that enhance Cursor AI editor experience with c |
 | [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | 35,725 | - | Integrate the DeepSeek API into popular software |
 | [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) | 34,404 | - | A curated and opinionated list of resources for Chief Technology Offic |
 | [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 33,965 | Java | Learn System Design concepts and prepare for interviews using free res |
-| [github/awesome-copilot](https://github.com/github/awesome-copilot) | 24,016 | JavaScript | Community-contributed instructions, prompts, and configurations to hel |
+| [github/awesome-copilot](https://github.com/github/awesome-copilot) | 24,112 | JavaScript | Community-contributed instructions, prompts, and configurations to hel |
 | [dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript) | 5,085 | - | A collection of awesome TypeScript resources for client-side and serve |
 | [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) | 3,350 | Python | Curated list of awesome Cursor Rules .mdc files |
-| [intellectronica/ruler](https://github.com/intellectronica/ruler) | 2,521 | TypeScript | Ruler — apply the same rules to all coding agents |
+| [intellectronica/ruler](https://github.com/intellectronica/ruler) | 2,523 | TypeScript | Ruler — apply the same rules to all coding agents |
 | [instructa/ai-prompts](https://github.com/instructa/ai-prompts) | 1,016 | JavaScript | Curated AI Prompts for Cursor Rules, Cline, Windsurf and Github Copilo |
-| [vibeforge1111/vibeship-spawner-skills](https://github.com/vibeforge1111/vibeship-spawner-skills) | 815 | JavaScript | a skill directory for world-class specialized agents, in your terminal |
-| [microsoft/hve-core](https://github.com/microsoft/hve-core) | 665 | PowerShell | A refined collection of Hypervelocity Engineering components (instruct |
-| [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) | 651 | JavaScript | The most comprehensive toolkit for Claude Code -- 135 agents, 35 curat |
-| [devtoolsd/awesome-devtools](https://github.com/devtoolsd/awesome-devtools) | 629 | - | A curated list of awesome developer tools and services — from cloud pl |
+| [microsoft/hve-core](https://github.com/microsoft/hve-core) | 825 | PowerShell | A refined collection of Hypervelocity Engineering components (instruct |
+| [vibeforge1111/vibeship-spawner-skills](https://github.com/vibeforge1111/vibeship-spawner-skills) | 816 | JavaScript | a skill directory for world-class specialized agents, in your terminal |
+| [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) | 655 | JavaScript | The most comprehensive toolkit for Claude Code -- 135 agents, 35 curat |
+| [devtoolsd/awesome-devtools](https://github.com/devtoolsd/awesome-devtools) | 630 | - | A curated list of awesome developer tools and services — from cloud pl |
 | [botingw/rulebook-ai](https://github.com/botingw/rulebook-ai) | 580 | Python | Elevate vibe coding to vibe engineering: Get consistent Github Copilot |
-| [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) | 425 | TypeScript | ✨ A curated list of awesome GitHub instructions, prompt, skills and ag |
-| [worryzyy/awesome-cursor-download](https://github.com/worryzyy/awesome-cursor-download) | 354 | TypeScript | Cursor历史版本下载、Cursor下载链接追踪器，Cursor beta版本、 Cursor下载中心 |
+| [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) | 426 | TypeScript | ✨ A curated list of awesome GitHub instructions, prompt, skills and ag |
+| [worryzyy/awesome-cursor-download](https://github.com/worryzyy/awesome-cursor-download) | 353 | TypeScript | Cursor历史版本下载、Cursor下载链接追踪器，Cursor beta版本、 Cursor下载中心 |
 | [jabrena/cursor-rules-java](https://github.com/jabrena/cursor-rules-java) | 310 | Java | A collection of System prompts and Skills for Java that help software  |
-| [Vishavjeet6/awesome-copilot-instructions](https://github.com/Vishavjeet6/awesome-copilot-instructions) | 254 | - | Awesome Copilot Instructions |
+| [Vishavjeet6/awesome-copilot-instructions](https://github.com/Vishavjeet6/awesome-copilot-instructions) | 256 | - | Awesome Copilot Instructions |
 | [JSONbored/claudepro-directory](https://github.com/JSONbored/claudepro-directory) | 192 | TypeScript | Claude Pro Directory is a searchable collection of pre-built configura |
-| [gakeez/agents_md_collection](https://github.com/gakeez/agents_md_collection) | 146 | - |  |
-| [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md) | 143 | Python | Curated collection of exemplary claude.md files and onboarding pattern |
+| [gakeez/agents_md_collection](https://github.com/gakeez/agents_md_collection) | 147 | - |  |
+| [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md) | 145 | Python | Curated collection of exemplary claude.md files and onboarding pattern |
 | [pamelafox/awesome-copilot-instructions](https://github.com/pamelafox/awesome-copilot-instructions) | 136 | - | Awesome custom instructions for GitHub Copilot |
+| [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | 135 | JavaScript | Curated list of AI agent templates for OpenClaw. Ready-to-use SOUL.md  |
 | [vincenthopf/claude-code](https://github.com/vincenthopf/My-Claude-Code) | 127 | Python | A curated list of commands, files, and workflows for Claude Code that  |
-| [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | 123 | JavaScript | Curated list of AI agent templates for OpenClaw. Ready-to-use SOUL.md  |
 | [bit-of-a-shambles/rails_copilot_instructions](https://github.com/bit-of-a-shambles/rails_copilot_instructions) | 121 | - | Canonical Rails instructions for the VSCode Github Copilot |
-| [EliFuzz/awesome-system-prompts](https://github.com/EliFuzz/awesome-system-prompts) | 115 | JavaScript | A collection of system prompts and tool definitions from various AI co |
+| [EliFuzz/awesome-system-prompts](https://github.com/EliFuzz/awesome-system-prompts) | 120 | JavaScript | A collection of system prompts and tool definitions from various AI co |
 | [baz-scm/awesome-reviewers](https://github.com/baz-scm/awesome-reviewers) | 109 | SCSS | Ready-to-use system prompts for Agentic Code Review. |
 | [forcedotcom/afv-library](https://github.com/forcedotcom/afv-library) | 101 | Apex | Agentforce Vibes collection of AI skills, prompts and rules for coding |
 | [SkywalkerJi/Clash-Rules](https://github.com/SkywalkerJi/Clash-Rules) | 99 | - | Clash策略组及规则 |
 | [YeeKal/leaked-system-prompts](https://github.com/YeeKal/leaked-system-prompts) | 98 | TypeScript | Collection of leaked  system prompts for ChatGPT, Claude, Grok, Gemini |
+| [Mizoreww/awesome-claude-code-config](https://github.com/Mizoreww/awesome-claude-code-config) | 79 | Shell | Production-ready Claude Code configuration with self-improvement loop, |
 | [waynesutton/promptstack](https://github.com/waynesutton/promptstack) | 76 | TypeScript | A searchable collection of AI prompts and code gen cursor rules, for b |
 | [waynesutton/PromptStack](https://github.com/waynesutton/promptstack) | 76 | TypeScript | A searchable collection of AI prompts and code gen cursor rules, for b |
-| [hasaneyldrm/cursor-rules](https://github.com/hasaneyldrm/cursor-rules) | 67 | - | Cursor rule'larını topladığım github repositorysi |
 
 ---
 
@@ -122,11 +122,11 @@
 
 | Project | ⭐ | Language | Description |
 |---------|---:|:--------:|-------------|
-| [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) | 5,452 | JavaScript | All parts of Claude Code's system prompt, 18 builtin tool descriptions |
+| [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) | 5,504 | JavaScript | All parts of Claude Code's system prompt, 18 builtin tool descriptions |
 | [maccman/ai-monorepo-scaffold](https://github.com/maccman/ai-monorepo-scaffold) | 296 | TypeScript | A scaffold demonstrating how to use a turbo, mono repo, trpc, better a |
 | [GCWing/BitFun](https://github.com/GCWing/BitFun) | 291 | TypeScript | BitFun is an Agentic Development Environment (ADE，AI IDE) featuring a  |
 | [przeprogramowani/ai-rules-builder](https://github.com/przeprogramowani/ai-rules-builder) | 248 | TypeScript | Generate "Rules for AI". Quickly ✨ |
-| [johunsang/vive-md](https://github.com/johunsang/vive-md) | 209 | Python | 바이브코딩용 CLAUDE.md 템플릿 & 워터폴 산출물 모음 (Spring Boot, Vue, React, Next.js, 보 |
+| [johunsang/vive-md](https://github.com/johunsang/vive-md) | 211 | Python | 바이브코딩용 CLAUDE.md 템플릿 & 워터폴 산출물 모음 (Spring Boot, Vue, React, Next.js, 보 |
 | [Tanq16/ai-context](https://github.com/Tanq16/ai-context) | 155 | Go | CLI tool to produce MD context files from many sources, to help intera |
 | [Gentleman-Programming/gentleman-architecture-agents](https://github.com/Gentleman-Programming/gentleman-architecture-agents) | 130 | - | 🏗️ Claude Code agents that enforce the Scope Rule architectural patter |
 | [Aaronontheweb/dotnet-cursor-rules](https://github.com/Aaronontheweb/dotnet-cursor-rules) | 124 | - | .mdc files for defining Cursor rules specific to .NET projects |
@@ -145,7 +145,7 @@
 | [SomeStay07/code-review-agent](https://github.com/SomeStay07/code-review-agent) | 20 | - | Code review agent for Claude Code. One .md file — 14 review categories |
 | [seo-skills/seo-audit-skill](https://github.com/seo-skills/seo-audit-skill) | 17 | TypeScript | A comprehensive SEO audit command-line tool with 108 audit rules acros |
 | [LessUp/cursor-rules](https://github.com/LessUp/cursor-rules) | 16 | - | 一套为 Cursor.sh 定制的代码审查规则集 ✍️，涵盖主流语言、框架和工具的最佳实践 🚀 |
-| [omergulcicek/kaide](https://github.com/omergulcicek/kaide) | 15 | - | AI-native architecture kit for modern React. High-discipline protocols |
+| [omergulcicek/kaide](https://github.com/omergulcicek/kaide) | 16 | - | AI-native architecture kit for modern React. High-discipline protocols |
 | [iloveitaly/llm-ide-rules](https://github.com/iloveitaly/llm-ide-rules) | 13 | Python | Centralized LLM prompt instructions for Copilot and Cursor, including  |
 | [evilcos/aircombat_webgame](https://github.com/evilcos/aircombat_webgame) | 13 | HTML | A tiny air combat web game by ai ide with agents.md. |
 | [Leandropesao/boooot](https://github.com/Leandropesao/boooot) | 11 | - | // Generated by CoffeeScript 1.6.2 (function() { var Command, RoomHelp |
@@ -171,13 +171,13 @@
 |---------|---:|:--------:|-------------|
 | [astral-sh/uv](https://github.com/astral-sh/uv) | 80,030 | Rust | An extremely fast Python package and project manager, written in Rust. |
 | [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) | 13,086 | - | LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, C |
-| [refly-ai/refly](https://github.com/refly-ai/refly) | 6,924 | TypeScript | The first open-source agent skills builder. Define skills by vibe work |
-| [microsoft/skills](https://github.com/microsoft/skills) | 1,636 | TypeScript | Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Codin |
-| [TencentCloudBase/CloudBase-MCP](https://github.com/TencentCloudBase/CloudBase-MCP) | 969 | TypeScript | CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI pro |
+| [refly-ai/refly](https://github.com/refly-ai/refly) | 6,926 | TypeScript | The first open-source agent skills builder. Define skills by vibe work |
+| [microsoft/skills](https://github.com/microsoft/skills) | 1,645 | TypeScript | Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Codin |
+| [TencentCloudBase/CloudBase-MCP](https://github.com/TencentCloudBase/CloudBase-MCP) | 970 | TypeScript | CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI pro |
 | [study8677/antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) | 941 | Python | 🪐 The ultimate starter kit for Google Antigravity IDE. Optimized for G |
-| [RayFernando1337/llm-cursor-rules](https://github.com/RayFernando1337/llm-cursor-rules) | 879 | - | My go-to rules for using Cursor and LLMs in software development. |
+| [RayFernando1337/llm-cursor-rules](https://github.com/RayFernando1337/llm-cursor-rules) | 878 | - | My go-to rules for using Cursor and LLMs in software development. |
 | [johnlindquist/mdflow](https://github.com/johnlindquist/mdflow) | 566 | TypeScript | Multi-backend CLI for executable markdown prompts. Run .md files again |
-| [rprokap/pset-9](https://github.com/rprokap/pset-9) | 276 | JavaScript | CREDITS SEQUENCE              NEWSPAPER HEADLINE MONTAGE:              |
+| [rprokap/pset-9](https://github.com/rprokap/pset-9) | 277 | JavaScript | CREDITS SEQUENCE              NEWSPAPER HEADLINE MONTAGE:              |
 | [molyswu/hand_detection](https://github.com/molyswu/hand_detection) | 272 | Python | using Neural Networks (SSD) on Tensorflow.  This repo documents steps  |
 | [JoonasVali/NaturalMouseMotion](https://github.com/JoonasVali/NaturalMouseMotion) | 246 | Java | This library provides a way to move cursor to specified coordinates on |
 | [originalankur/GenerateAgents.md](https://github.com/originalankur/GenerateAgents.md) | 232 | Python | Automated generation of comprehensive Agents.md for LLMs, driven by th |
@@ -190,7 +190,7 @@
 | [Arman-Kudaibergenov/1c-ai-development-kit](https://github.com/Arman-Kudaibergenov/1c-ai-development-kit) | 87 | PowerShell | Comprehensive AI agents, skills and rules toolkit for 1C:Enterprise de |
 | [Lance-He/claude-md-rules](https://github.com/Lance-He/claude-md-rules) | 84 | - | 一个为 Claude Code 提供多语言编程规则文件（CLAUDE.md）的开源项目，帮助开发者规范 Claude 的行为，提升协作一致性 |
 | [hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp) | 80 | Python | AI-powered code quality analysis using MCP to help AI assistants revie |
-| [shinpr/mcp-image](https://github.com/shinpr/mcp-image) | 76 | TypeScript | MCP server for AI image generation and editing with automatic prompt o |
+| [shinpr/mcp-image](https://github.com/shinpr/mcp-image) | 79 | TypeScript | MCP server for AI image generation and editing with automatic prompt o |
 | [ivangrynenko/cursorrules](https://github.com/ivangrynenko/cursorrules) | 75 | Shell | A set of cursor rules for Cursor AI IDE that support PHP, Python, Java |
 | [golbin/AGENTS.md](https://github.com/golbin/AGENTS.md) | 69 | - |  |
 | [lucianoayres/mcp-server-node](https://github.com/lucianoayres/mcp-server-node) | 68 | JavaScript | MCP Server implemented in JavaScript using Node.js that demonstrates h |
@@ -205,10 +205,10 @@
 | [tyrchen/rust-lib-template](https://github.com/tyrchen/rust-lib-template) | 44 | Makefile | My goto template for rust projects, with pre-commit, gh action for CI  |
 | [aiurda/devcontext](https://github.com/aiurda/devcontext) | 44 | HTML | DevContext is a cutting-edge Model Context Protocol (MCP) server desig |
 | [Ronald106/Surviv.io](https://github.com/Ronald106/Surviv.io) | 44 | - | <!doctype html> <html lang='en'>   <head>     <!-- Meta Properties --> |
+| [fjb040911/ai-rules](https://github.com/fjb040911/ai-rules) | 43 | JavaScript | ai-rules is a governance framework designed to solve "Architectural De |
 | [amtiYo/agents](https://github.com/amtiYo/agents) | 42 | TypeScript | One .agents source of truth to sync MCP servers, skills, and instructi |
 | [violettoolssite/codexProapi](https://github.com/violettoolssite/codexProapi) | 41 | HTML | Expose ChatGPT Codex as an OpenAI-compatible API for Cline, Cursor, an |
 | [jabrena/cursor-rules-spring-boot](https://github.com/jabrena/cursor-rules-spring-boot) | 39 | - | Modern Java IDEs, such as Cursor AI, provide ways to customize how the |
-| [Coolver/home-assistant-mcp](https://github.com/Coolver/home-assistant-mcp) | 39 | TypeScript | Home Assistant MCP Server. Enable Cursor, VS Code, Claude Code or any  |
 
 ---
 
@@ -216,11 +216,11 @@
 
 | Project | ⭐ | Language | Description |
 |---------|---:|:--------:|-------------|
-| [twostraws/SwiftAgents](https://github.com/twostraws/SwiftAgents) | 958 | - | An AGENTS.md file for Swift and SwiftUI projects. |
-| [GPTomics/bioSkills](https://github.com/GPTomics/bioSkills) | 311 | Python | a set of SKILLS.md for doing bioinformatics with agents like claude co |
+| [twostraws/SwiftAgents](https://github.com/twostraws/SwiftAgents) | 966 | - | An AGENTS.md file for Swift and SwiftUI projects. |
+| [GPTomics/bioSkills](https://github.com/GPTomics/bioSkills) | 312 | Python | a set of SKILLS.md for doing bioinformatics with agents like claude co |
 | [ehmo/platform-design-skills](https://github.com/ehmo/platform-design-skills) | 233 | - | Agent skills for building and evaluating apps against official design  |
 | [brunogama/ios-cursor-rules](https://github.com/brunogama/ios-cursor-rules) | 65 | Shell | ios cursor rules |
-| [ai-dashboad/flutter-skill](https://github.com/ai-dashboad/flutter-skill) | 56 | Dart | AI-powered E2E testing for 10 platforms. 253 MCP tools. Zero config. W |
+| [ai-dashboad/flutter-skill](https://github.com/ai-dashboad/flutter-skill) | 57 | Dart | AI-powered E2E testing for 10 platforms. 253 MCP tools. Zero config. W |
 | [KhalidWar/flutter_cursor_rules](https://github.com/KhalidWar/flutter_cursor_rules) | 11 | - | Flutter/Dart coding guidelines for Cursor AI IDE |
 | [ivan-magda/uikit-expert-skill](https://github.com/ivan-magda/uikit-expert-skill) | 7 | - | Agent skill for writing correct, modern UIKit code in Swift. Covers li |
 | [saropa/saropa_lints](https://github.com/saropa/saropa_lints) | 5 | Dart | 1700+ advanced lint rules for Flutter & Dart. Catches memory leaks, se |
@@ -231,21 +231,21 @@
 
 | Project | ⭐ | Language | Description |
 |---------|---:|:--------:|-------------|
-| [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | 13,489 | TypeScript | A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-f |
+| [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | 13,492 | TypeScript | A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-f |
 | [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) | 1,948 | - | Shared starter template configuration and CLAUDE.md memory bank system |
-| [Bhartendu-Kumar/rules_template](https://github.com/Bhartendu-Kumar/rules_template) | 1,062 | - | If using CLINE/RooCode/Cursor/Windsurf Setup these rules. Usable for n |
+| [Bhartendu-Kumar/rules_template](https://github.com/Bhartendu-Kumar/rules_template) | 1,063 | - | If using CLINE/RooCode/Cursor/Windsurf Setup these rules. Usable for n |
 | [Idea-To-Business/raphael-starterkit-v1](https://github.com/Idea-To-Business/raphael-starterkit-v1) | 318 | TypeScript | 刘小排 Idea To Business 课程配套的极简starter。 特色功能包括：1. 极简！只有新手必须的功能！ 2. 自带Curs |
 | [cursor-project/prompt-manager](https://github.com/cursor-project/prompt-manager) | 238 | TypeScript | Efficient management and quick access to AI Prompt templates for Curso |
-| [ThaddaeusSandidge/BorisChernyClaudeMarkdown](https://github.com/ThaddaeusSandidge/BorisChernyClaudeMarkdown) | 85 | - | A template CLAUDE.md file implementing Agentic Context Engineering (AC |
+| [ThaddaeusSandidge/BorisChernyClaudeMarkdown](https://github.com/ThaddaeusSandidge/BorisChernyClaudeMarkdown) | 88 | - | A template CLAUDE.md file implementing Agentic Context Engineering (AC |
 | [abhishekray07/claude-md-templates](https://github.com/abhishekray07/claude-md-templates) | 70 | - | CLAUDE.md best practices |
-| [aakashg/pm-claude-code-setup](https://github.com/aakashg/pm-claude-code-setup) | 34 | - | Ready-to-use CLAUDE.md and starter skill for product managers using Cl |
+| [aakashg/pm-claude-code-setup](https://github.com/aakashg/pm-claude-code-setup) | 40 | - | Ready-to-use CLAUDE.md and starter skill for product managers using Cl |
 | [fbrbovic/cursor-rule-framework](https://github.com/fbrbovic/cursor-rule-framework) | 32 | JavaScript | Starter Template with rules for Vibe Coding with Cursor AI IDE - Built |
 | [nyosegawa/agents-md-generator](https://github.com/nyosegawa/agents-md-generator) | 31 | Shell | Auto AGENTS.md Generator for Git - Automatically creates starter AGENT |
-| [jlfguthrie/Cline-Prompts-Tips-and-Tricks](https://github.com/jlfguthrie/Cline-Prompts-Tips-and-Tricks) | 29 | - | Cline-Prompts-Tips-and-Tricks: A repository of AI prompt templates, co |
+| [jlfguthrie/Cline-Prompts-Tips-and-Tricks](https://github.com/jlfguthrie/Cline-Prompts-Tips-and-Tricks) | 30 | - | Cline-Prompts-Tips-and-Tricks: A repository of AI prompt templates, co |
+| [Deibiz4/claude-code-template](https://github.com/Deibiz4/claude-code-template) | 19 | - | Template para nuevos proyectos con Claude Code: CLAUDE.md, slash comma |
 | [Kabi10/Cursor](https://github.com/Kabi10/Cursor) | 18 | PowerShell | Modular Cursor AI rules builder with 14+ stars. Create custom AI rules |
-| [Deibiz4/claude-code-template](https://github.com/Deibiz4/claude-code-template) | 18 | - | Template para nuevos proyectos con Claude Code: CLAUDE.md, slash comma |
+| [lukasz-fedor/claude-memory-template](https://github.com/lukasz-fedor/claude-memory-template) | 18 | Python | Starter template for Claude Code memory system: modular rules with glo |
 | [progress-stack/templates](https://github.com/progress-stack/templates) | 15 | - | CLAUDE.md + PROGRESS.md templates for AI-assisted productivity |
-| [lukasz-fedor/claude-memory-template](https://github.com/lukasz-fedor/claude-memory-template) | 14 | Python | Starter template for Claude Code memory system: modular rules with glo |
 | [CarlosEGuerraSilva/AGENTS.md](https://github.com/CarlosEGuerraSilva/AGENTS.md) | 11 | - | AGENTS.md template to improve response structure, reduce input and out |
 | [SylvainChabaud/spec-to-code-factory](https://github.com/SylvainChabaud/spec-to-code-factory) | 10 | JavaScript | Pipeline automatisé Spec-to-Code pour Claude Code. Transforme un requi |
 | [kelisiWu123/cursor-rules-wizard](https://github.com/kelisiWu123/cursor-rules-wizard) | 8 | TypeScript | .cursorrules template |
@@ -265,7 +265,7 @@
 
 | Project | ⭐ | Language | Description |
 |---------|---:|:--------:|-------------|
-| [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | 618 | - | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI  |
+| [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | 625 | - | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI  |
 | [FutureExcited/vibe-rules](https://github.com/FutureExcited/vibe-rules) | 499 | TypeScript | Save, load, distribute your AI rules |
 | [johnpeterman72/CursorRIPER.sigma](https://github.com/johnpeterman72/CursorRIPER.sigma) | 207 | - | A symbolic, ultra-efficient AI prompt framework for software developme |
 | [pen9un/cursor-auto-helper](https://github.com/pen9un/cursor-auto-helper) | 156 | - | Cursor自动继续工具，Cursor自动重试，Cursor自动确认，Cursor用量统计，Cursor增强工具，Cursor辅助工具，Cu |
@@ -292,19 +292,19 @@
 | [Viniciuscarvalho/mindkit](https://github.com/Viniciuscarvalho/mindkit) | 11 | TypeScript | Forge your AI development mind - Install and sync AI configs across Cl |
 | [smykla-skalski/klaudiush](https://github.com/smykla-skalski/klaudiush) | 10 | Go | A validation dispatcher for Claude Code hooks that enforces git workfl |
 | [aranej/CC-CLAUDE.md-flow](https://github.com/aranej/CC-CLAUDE.md-flow) | 9 | Shell | Autonomous AI profile switching system for Claude Code - 5 specialized |
+| [archgate/cli](https://github.com/archgate/cli) | 9 | TypeScript | Enforce Architecture Decision Records as executable rules — for both h |
 | [Seeed-Studio/Seeed_Arduino_SerialLCD](https://github.com/Seeed-Studio/Seeed_Arduino_SerialLCD) | 8 | C++ | This Library provides example demos for setting LCD Autoscroll, Backli |
 | [PratikSingh121/Prompt_Engineering_Codex](https://github.com/PratikSingh121/Prompt_Engineering_Codex) | 8 | - | After analyzing the system prompts from leading AI platforms including |
 | [egany/agentic-working-kit](https://github.com/egany/agentic-working-kit) | 8 | Python | Open resources for workflows/skills/rules/tools on AgenticWorking.io – |
-| [archgate/cli](https://github.com/archgate/cli) | 8 | TypeScript | Enforce Architecture Decision Records as executable rules — for both h |
+| [erafat/skills](https://github.com/erafat/skills) | 8 | Python | Reusable Codex/Claude skills, including md-to-xhs-cards for Markdown t |
 | [stahura/domo-ai-vibe-rules](https://github.com/stahura/domo-ai-vibe-rules) | 7 | - | cursor/cc rules to facilitate the development of Domo Custom Apps |
 | [baocin/claude-code-config](https://github.com/baocin/claude-code-config) | 7 | - | My personal ~/.claude commands and *.md configs. |
 | [MCKRUZ/claude-code-mastery](https://github.com/MCKRUZ/claude-code-mastery) | 7 | - | The definitive Claude Code setup, configuration, and mastery skill — C |
-| [erafat/skills](https://github.com/erafat/skills) | 7 | Python | Reusable Codex/Claude skills, including md-to-xhs-cards for Markdown t |
+| [flonat/claude-research](https://github.com/flonat/claude-research) | 7 | Python | Shareable Claude Code infrastructure for PhD researchers — skills, age |
 | [holasoymalva/AI-Unit-Test-Builder](https://github.com/holasoymalva/AI-Unit-Test-Builder) | 6 | - | A simple unit test builder for managing AI in Cursor |
 | [xLUPOx/cursor-ai-rules-framework](https://github.com/xLUPOx/cursor-ai-rules-framework) | 6 | - | Comprehensive AI prompting framework for Cursor IDE - Autonomous Princ |
 | [echovick/claude-rules](https://github.com/echovick/claude-rules) | 6 | - | A set of generic claude code rules to efficiently follow. |
 | [FDeeDee/NIST-FDD-for-Residential-Air-Conditioners-and-Heat-Pumps](https://github.com/FDeeDee/NIST-FDD-for-Residential-Air-Conditioners-and-Heat-Pumps) | 6 | LabVIEW | LabView codes, and associated codes, for doing a rule-based-chart meth |
-| [diogocnunes/ai-shadow-vault](https://github.com/diogocnunes/ai-shadow-vault) | 6 | Shell | AI Shadow Vault: A local DX infrastructure for context-aware AI coding |
 
 ---
 
@@ -314,43 +314,43 @@
 |---------|---:|:--------:|-------------|
 | [getcursor/cursor](https://github.com/cursor/cursor) | 32,336 | - | The AI Code Editor |
 | [academic/awesome-datascience](https://github.com/academic/awesome-datascience) | 28,455 | - | :memo: An awesome Data Science repository to learn and apply for real  |
-| [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 9,153 | JavaScript | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / |
-| [steipete/agent-rules](https://github.com/steipete/agent-rules) | 5,617 | Shell | Rules and Knowledge to work better with agents such as Claude Code or  |
-| [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) | 5,024 | TypeScript | Backlog.md - A tool for managing project collaboration between humans  |
-| [liyupi/yu-ai-agent](https://github.com/liyupi/yu-ai-agent) | 1,775 | Java | 编程导航 2025 年 AI 开发实战新项目，基于 Spring Boot 3 + Java 21 + Spring AI 构建 AI 恋爱 |
-| [LakshmanTurlapati/Review-Gate](https://github.com/LakshmanTurlapati/Review-Gate) | 1,528 | JavaScript | Review-Gate V2 is a powerful rule for the Cursor IDE that helps you ge |
-| [gadievron/raptor](https://github.com/gadievron/raptor) | 1,437 | Python | Raptor turns Claude Code into a general-purpose AI offensive/defensive |
-| [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) | 1,252 | TypeScript | Customize Claude Code's system prompts, create custom toolsets, input  |
-| [jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config) | 959 | JavaScript | My personal Claude Code configuration - rules, hooks, agents, skills,  |
-| [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) | 858 | TypeScript | A Utility CLI for AI Coding Agents |
+| [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 9,207 | JavaScript | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / |
+| [steipete/agent-rules](https://github.com/steipete/agent-rules) | 5,619 | Shell | Rules and Knowledge to work better with agents such as Claude Code or  |
+| [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) | 5,041 | TypeScript | Backlog.md - A tool for managing project collaboration between humans  |
+| [liyupi/yu-ai-agent](https://github.com/liyupi/yu-ai-agent) | 1,780 | Java | 编程导航 2025 年 AI 开发实战新项目，基于 Spring Boot 3 + Java 21 + Spring AI 构建 AI 恋爱 |
+| [LakshmanTurlapati/Review-Gate](https://github.com/LakshmanTurlapati/Review-Gate) | 1,527 | JavaScript | Review-Gate V2 is a powerful rule for the Cursor IDE that helps you ge |
+| [gadievron/raptor](https://github.com/gadievron/raptor) | 1,443 | Python | Raptor turns Claude Code into a general-purpose AI offensive/defensive |
+| [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) | 1,261 | TypeScript | Customize Claude Code's system prompts, create custom toolsets, input  |
+| [jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config) | 961 | JavaScript | My personal Claude Code configuration - rules, hooks, agents, skills,  |
+| [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) | 859 | TypeScript | A Utility CLI for AI Coding Agents |
 | [perrypixel/10x-Tool-Calls](https://github.com/perrypixel/10x-Tool-Calls) | 856 | Python | 10x-Tool-Calls is a lightweight rules file designed to help you maximi |
 | [s-smits/agentic-cursorrules](https://github.com/s-smits/agentic-cursorrules) | 643 | Python | A practical approach to managing multiple AI agents in Cursor through  |
 | [fynnfluegge/codeqai](https://github.com/fynnfluegge/codeqai) | 496 | Python | Local first semantic code search and chat | Leverage custom copilots w |
 | [evanca/flutter-ai-rules](https://github.com/evanca/flutter-ai-rules) | 475 | - | Flutter Rules for Windsurf, Cursor, and Other AI-Powered IDEs |
-| [TheDecipherist/claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery) | 446 | Shell | The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP serve |
+| [TheDecipherist/claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery) | 450 | Shell | The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP serve |
 | [zxdxjtu/claudecode-rule2hook](https://github.com/zxdxjtu/claudecode-rule2hook) | 407 | Python | Transform natural language project rules into Claude Code automation h |
 | [project-codeguard/rules](https://github.com/project-codeguard/rules) | 393 | Python | Project CodeGuard is an AI model-agnostic security framework and rules |
 | [kcolemangt/llm-router](https://github.com/kcolemangt/llm-router) | 382 | Go | Access models from OpenAI, Groq, local Ollama, and others by setting l |
 | [matank001/cursor-security-rules](https://github.com/matank001/cursor-security-rules) | 364 | - | This repository contains Cursor Security Rules designed to improve the |
 | [Alexanderdunlop/ai-architecture-prompts](https://github.com/Alexanderdunlop/ai-architecture-prompts) | 358 | - | AI prompts that teach Claude/Cursor to architect replaceable, modular  |
-| [FrancyJGLisboa/agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) | 344 | Python | Turn any workflow into reusable AI agent skills that install on 14+ to |
-| [doramirdor/NadirClaw](https://github.com/doramirdor/NadirClaw) | 266 | Python | Smart LLM router that cuts AI costs by ~40%. Routes simple prompts to  |
+| [FrancyJGLisboa/agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) | 347 | Python | Turn any workflow into reusable AI agent skills that install on 14+ to |
+| [doramirdor/NadirClaw](https://github.com/doramirdor/NadirClaw) | 271 | Python | Smart LLM router that cuts AI costs by ~40%. Routes simple prompts to  |
 | [KingLeoJr/prompts](https://github.com/KingLeoJr/prompts) | 258 | - | builder prompts which can be sent to builders like cursor, bolt.diy, b |
 | [AllAboutAI-YT/cursor_prompts](https://github.com/AllAboutAI-YT/cursor_prompts) | 234 | - | Cursor Prompt for Easy App Setup |
 | [wiz-sec-public/secure-rules-files](https://github.com/wiz-sec-public/secure-rules-files) | 225 | Python | Baseline rules files to improve the security of AI-generated code (Cla |
-| [thehimel/cursor-rules-and-prompts](https://github.com/thehimel/cursor-rules-and-prompts) | 211 | Shell | A comprehensive, open-source collection of rules and prompts designed  |
+| [thehimel/cursor-rules-and-prompts](https://github.com/thehimel/cursor-rules-and-prompts) | 212 | Shell | A comprehensive, open-source collection of rules and prompts designed  |
 | [murataslan1/cursor-ai-tips](https://github.com/murataslan1/cursor-ai-tips) | 199 | - | Cursor AI IDE tips, tricks & best practices - Keyboard shortcuts, Comp |
 | [zhukunpenglinyutong/ai-max](https://github.com/zhukunpenglinyutong/ai-max) | 193 | JavaScript | 一键给Claude Code 提高智商，包含生产级 agents、skills、hooks、commands、rules 和 MCP 配置 |
 | [T1nker-1220/UltraContextAI](https://github.com/T1nker-1220/UltraContextAI) | 182 | - | Hire/Contact me: marquezjohnnathanieljade@gmail.com https://forum.curs |
 | [sinberCS/switch2ai](https://github.com/sinberCS/switch2ai) | 171 | Kotlin | switch2ai - A JetBrains IDE plugin enabling seamless collaboration bet |
-| [joewinke/jat](https://github.com/joewinke/jat) | 155 | Svelte | The World's First Agentic IDE. Visual dashboard: live sessions, task m |
-| [Mr-chen-05/rules-2.1-optimized](https://github.com/Mr-chen-05/rules-2.1-optimized) | 154 | Batchfile | 企业级AI助手规则体系 - 基于agent-rules优化扩展，专为中国开发者打造，支持Augment、Cursor、Claude Code |
-| [bonninr/freecad_mcp](https://github.com/bonninr/freecad_mcp) | 150 | Python | FreecadMCP connects Freecad to Claude AI and other MCP-ready tools lik |
+| [joewinke/jat](https://github.com/joewinke/jat) | 156 | Svelte | The World's First Agentic IDE. Visual dashboard: live sessions, task m |
+| [Mr-chen-05/rules-2.1-optimized](https://github.com/Mr-chen-05/rules-2.1-optimized) | 155 | Batchfile | 企业级AI助手规则体系 - 基于agent-rules优化扩展，专为中国开发者打造，支持Augment、Cursor、Claude Code |
+| [bonninr/freecad_mcp](https://github.com/bonninr/freecad_mcp) | 152 | Python | FreecadMCP connects Freecad to Claude AI and other MCP-ready tools lik |
 | [apisec-inc/mcp-audit](https://github.com/apisec-inc/mcp-audit) | 142 | Python | See what your AI agents can access. Scan MCP configs for exposed secre |
 | [alchaincyf/cursor-rules-huasheng](https://github.com/alchaincyf/cursor-rules-huasheng) | 136 | TypeScript |  |
 | [yegor256/prompt](https://github.com/yegor256/prompt) | 135 | - | A plain-text prompt for LLMs that teaches the essence of elegant codin |
 | [SingularityLabs-ai/Ultimate_Prompts_Directory](https://github.com/SingularityLabs-ai/Ultimate_Prompts_Directory) | 122 | HTML | Largest  Prompts Directory on internet - 10K+ Prompts | Veo3 | Databri |
-| [severity1/claude-code-auto-memory](https://github.com/severity1/claude-code-auto-memory) | 118 | Python | Claude Code plugin that automatically maintains CLAUDE.md files |
+| [severity1/claude-code-auto-memory](https://github.com/severity1/claude-code-auto-memory) | 119 | Python | Claude Code plugin that automatically maintains CLAUDE.md files |
 | [ai-driven-dev/rules](https://github.com/ai-driven-dev/rules) | 106 | TypeScript | Nos règles "AI Editor" basée sur Cursor pour optimiser 10x les réponse |
 
 ---
@@ -359,28 +359,28 @@
 
 | Project | ⭐ | Language | Description |
 |---------|---:|:--------:|-------------|
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 129,187 | - | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devi |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 129,461 | - | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devi |
 | [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) | 1,281 | Lua | Neovim treesitter plugin for setting the commentstring based on the cu |
-| [IsHexx/system-prompts-and-models-of-ai-tools-chinese](https://github.com/IsHexx/system-prompts-and-models-of-ai-tools-chinese) | 949 | - | AI编程工具中文提示词合集，包含Cursor、Devin、VSCode Agent等多种AI编程工具的提示词，为中文开发者提供AI辅助编程参 |
+| [IsHexx/system-prompts-and-models-of-ai-tools-chinese](https://github.com/IsHexx/system-prompts-and-models-of-ai-tools-chinese) | 950 | - | AI编程工具中文提示词合集，包含Cursor、Devin、VSCode Agent等多种AI编程工具的提示词，为中文开发者提供AI辅助编程参 |
+| [prompt-security/clawsec](https://github.com/prompt-security/clawsec) | 635 | JavaScript | A complete security skill suite for OpenClaw's and NanoClaw agents (an |
 | [breschio/drawbridge](https://github.com/breschio/drawbridge) | 619 | JavaScript | Design editor for Claude Code and Cursor. "Figma Comments" for the bro |
-| [prompt-security/clawsec](https://github.com/prompt-security/clawsec) | 594 | JavaScript | A complete security skill suite for OpenClaw's and NanoClaw agents (an |
 | [Coolver/home-assistant-vibecode-agent](https://github.com/Coolver/home-assistant-vibecode-agent) | 469 | Python | Home Assistant MCP server agent. Enable Cursor, VS Code, Claude Code,  |
-| [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) | 452 | Python | My personal Claude Code and OpenAI Codex setup with battle-tested skil |
-| [enulus/OpenPackage](https://github.com/enulus/OpenPackage) | 433 | TypeScript | The open, universal, coding agent skills, agents, rules, and commands  |
-| [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) | 297 | Python | A CLAUDE.md Generator and Maintenance tool for for Claude Code to crea |
+| [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) | 455 | Python | My personal Claude Code and OpenAI Codex setup with battle-tested skil |
+| [enulus/OpenPackage](https://github.com/enulus/OpenPackage) | 435 | TypeScript | The open, universal, coding agent skills, agents, rules, and commands  |
+| [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) | 300 | Python | A CLAUDE.md Generator and Maintenance tool for for Claude Code to crea |
 | [gdli6177/mcp-prompt-server](https://github.com/gdli6177/mcp-prompt-server) | 241 | JavaScript | 这是一个基于Model Context Protocol (MCP)的服务器，用于根据用户任务需求提供预设的prompt模板，帮助Cline |
 | [mbeijen/andrej-karpathy-skills-cursor-vscode](https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode) | 164 | TypeScript | Andrej Karpathy skills for your Cursor or VS Code editor |
-| [jcwangxp/Crossline](https://github.com/jcwangxp/Crossline) | 149 | C | A small, self-contained, zero-config, MIT licensed, cross-platform, re |
-| [mco-org/mco](https://github.com/mco-org/mco) | 144 | Python | Orchestrate AI coding agents. Any prompt. Any agent. Any IDE. Neutral  |
+| [jcwangxp/Crossline](https://github.com/jcwangxp/Crossline) | 150 | C | A small, self-contained, zero-config, MIT licensed, cross-platform, re |
+| [mco-org/mco](https://github.com/mco-org/mco) | 145 | Python | Orchestrate AI coding agents. Any prompt. Any agent. Any IDE. Neutral  |
 | [mhar-andal/system-prompts-and-models-of-ai-tools](https://github.com/mhar-andal/system-prompts-and-models-of-ai-tools) | 141 | - | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsu |
 | [webdevtodayjason/context-forge](https://github.com/webdevtodayjason/context-forge) | 136 | TypeScript | CLI tool that scaffolds context engineering documentation for Claude C |
 | [CreatorEdition/system-prompts-and-models-of-ai-tools-chinese](https://github.com/CreatorEdition/system-prompts-and-models-of-ai-tools-chinese) | 132 | - | AI编程工具中文提示词合集，包含Cursor、Antigravity、VSCode Agent等多种AI编程工具的提示词，为中文开发者提供A |
 | [martin-opensky/whisper-assistant-vscode](https://github.com/martin-opensky/whisper-assistant-vscode) | 123 | TypeScript | Whisper Assistant is a powerful VSCode extension that allows developer |
 | [digitalchild/cursor-best-practices](https://github.com/digitalchild/cursor-best-practices) | 118 | - | Best practices when using Cursor the AI editor. |
-| [POSO-PocketSolutions/opencode-cursor-auth](https://github.com/POSO-PocketSolutions/opencode-cursor-auth) | 113 | TypeScript | Zero-config authentication for Cursor tools using local credentials. |
-| [trevor-nichols/agentrules-architect](https://github.com/trevor-nichols/agentrules-architect) | 107 | Python | AGENTS.md/CLAUDE.md generator and ExecPlan harness for Codex, Claude C |
+| [POSO-PocketSolutions/opencode-cursor-auth](https://github.com/POSO-PocketSolutions/opencode-cursor-auth) | 114 | TypeScript | Zero-config authentication for Cursor tools using local credentials. |
+| [trevor-nichols/agentrules-architect](https://github.com/trevor-nichols/agentrules-architect) | 108 | Python | AGENTS.md/CLAUDE.md generator and ExecPlan harness for Codex, Claude C |
 | [gapmiss/obsidian-plugin-skill](https://github.com/gapmiss/obsidian-plugin-skill) | 89 | JavaScript | CLAUDE SKILL for Obsidian.md plugin development |
-| [agent-sh/agnix](https://github.com/agent-sh/agnix) | 79 | Rust | The missing linter and lsp for AI coding assistants. Validate CLAUDE.m |
+| [agent-sh/agnix](https://github.com/agent-sh/agnix) | 80 | Rust | The missing linter and lsp for AI coding assistants. Validate CLAUDE.m |
 | [bunnysayzz/qoder-reset](https://github.com/bunnysayzz/qoder-reset) | 70 | Shell | Qoder Code reset tool - clean all data, cache, and settings. |
 | [Dicklesworthstone/slb](https://github.com/Dicklesworthstone/slb) | 61 | Go | Two-person rule CLI for AI coding agents: peer review and approval req |
 | [0x3at/synceverything](https://github.com/0x3at/synceverything) | 57 | TypeScript | A powerful VS Code extension that enables seamless synchronization of  |
@@ -393,9 +393,9 @@
 | [rosendolu/cursor-rules-deploy](https://github.com/rosendolu/cursor-rules-deploy) | 37 | TypeScript | CLI tool for deploying Cursor AI rules and templates |
 | [airulefy/Airulefy](https://github.com/airulefy/Airulefy) | 34 | Python | Unify AI agent rules across tools like Cursor, Copilot, Devin, and Cli |
 | [stefanicjuraj/smart-search](https://github.com/stefanicjuraj/smart-search) | 32 | TypeScript | extension for advanced search functionality for project files, text, f |
+| [xiaobei930/cc-best](https://github.com/xiaobei930/cc-best) | 31 | JavaScript | 🎭 cc-best: Turn Claude Code into a full dev team — PM→Lead→Dev→QA auto |
 | [nwiizo/ccat](https://github.com/nwiizo/ccat) | 31 | Rust | CLAUDE.md Context Analyzer - A comprehensive tool for analyzing and ma |
-| [xiaobei930/cc-best](https://github.com/xiaobei930/cc-best) | 30 | JavaScript | 🎭 cc-best: Turn Claude Code into a full dev team — PM→Lead→Dev→QA auto |
-| [frap129/opencode-rules](https://github.com/frap129/opencode-rules) | 29 | TypeScript | An opencode plugin to dynamically inject rules into context, like curs |
+| [frap129/opencode-rules](https://github.com/frap129/opencode-rules) | 30 | TypeScript | An opencode plugin to dynamically inject rules into context, like curs |
 | [johnlindquist/get-rules](https://github.com/johnlindquist/get-rules) | 27 | TypeScript | Downloads .mdc rule files for Cursor from johnlindquist/rules-for-tool |
 | [armanzeroeight/fastagent-plugins](https://github.com/armanzeroeight/fastagent-plugins) | 26 | - | 🚀 A collection of Claude subagents, skills, rules, guides, and bluepri |
 | [bunnysayzz/augment-reset](https://github.com/bunnysayzz/augment-reset) | 26 | Shell | Augment Code extension reset tool - clean all data, cache, and setting |
@@ -407,31 +407,32 @@
 | Project | ⭐ | Language | Description |
 |---------|---:|:--------:|-------------|
 | [anthropics/skills](https://github.com/anthropics/skills) | 79,786 | Python | Public repository for Agent Skills |
-| [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | 18,611 | TypeScript | AGENTS.md — a simple, open format for guiding coding agents |
+| [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | 18,640 | TypeScript | AGENTS.md — a simple, open format for guiding coding agents |
 | [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) | 5,956 | Python | Magic to turn Cursor/Windsurf as 90% of Devin |
 | [NeekChaw/RIPER-5](https://github.com/NeekChaw/RIPER-5) | 2,533 | - | 神级Cursor Rule |
 | [flyeric0212/cursor-rules](https://github.com/flyeric0212/cursor-rules) | 1,678 | - | 整理和收集来自不同项目的Cursor规则文件，提供多种编程语言和框架的规则支持。 |
-| [kinopeee/cursorrules](https://github.com/kinopeee/cursorrules) | 1,127 | - |  |
-| [BayramAnnakov/claude-reflect](https://github.com/BayramAnnakov/claude-reflect) | 795 | Python | A self-learning system for Claude Code that captures corrections, posi |
-| [iannuttall/dotagents](https://github.com/iannuttall/dotagents) | 620 | TypeScript | One location for all of your hooks, commands, skills, and AGENT/CLAUDE |
+| [kinopeee/cursorrules](https://github.com/kinopeee/cursorrules) | 1,126 | - |  |
+| [BayramAnnakov/claude-reflect](https://github.com/BayramAnnakov/claude-reflect) | 794 | Python | A self-learning system for Claude Code that captures corrections, posi |
+| [iannuttall/dotagents](https://github.com/iannuttall/dotagents) | 619 | TypeScript | One location for all of your hooks, commands, skills, and AGENT/CLAUDE |
 | [kinopeee/windsurf-antigravity-rules](https://github.com/kinopeee/windsurf-antigravity-rules) | 367 | - |  |
 | [SoleilQAQ/ez-cursor-free](https://github.com/SoleilQAQ/ez-cursor-free) | 282 | Python | 解决Cursor免费订阅提示问题和自动注册刷新Resolve the issue of free subscription prompts  |
 | [iannuttall/task-magic](https://github.com/iannuttall/task-magic) | 242 | - | A complete task management system using Cursor/Windsurf rules |
 | [1mrat/cursor](https://github.com/1mrat/cursor) | 241 | - | Repo of cursor prompts |
 | [comol/cursor_rules_1c](https://github.com/comol/cursor_rules_1c) | 173 | PowerShell | Rules for cursor for vibe coding in 1C |
 | [maxfahl/cursor-agent-master-prompt](https://github.com/maxfahl/cursor-agent-master-prompt) | 158 | - | Cursor Agent - Master Prompt |
+| [coyvalyss1/model-matchmaker](https://github.com/coyvalyss1/model-matchmaker) | 128 | Shell | Local hook for Cursor and Claude Code that routes prompts to the right |
 | [iannuttall/source-agents](https://github.com/iannuttall/source-agents) | 124 | TypeScript | Keep AGENTS.md and CLAUDE.md in sync across your projects. |
-| [coyvalyss1/model-matchmaker](https://github.com/coyvalyss1/model-matchmaker) | 120 | Shell | Local hook for Cursor and Claude Code that routes prompts to the right |
-| [yuxinle1996/windsurf-assistant-pub](https://github.com/yuxinle1996/windsurf-assistant-pub) | 104 | - | windsurf小助手, 一键取号切号, 备份mcp/rules, 重置机器码 |
-| [ArthurClune/claude-md-examples](https://github.com/ArthurClune/claude-md-examples) | 104 | - |  |
+| [ArthurClune/claude-md-examples](https://github.com/ArthurClune/claude-md-examples) | 105 | - |  |
 | [mathworks/MATLAB-Coding-Guidelines](https://github.com/mathworks/MATLAB-Coding-Guidelines) | 104 | - |  |
+| [yuxinle1996/windsurf-assistant-pub](https://github.com/yuxinle1996/windsurf-assistant-pub) | 103 | - | windsurf小助手, 一键取号切号, 备份mcp/rules, 重置机器码 |
 | [yibie/SPEC-AGENTS.md](https://github.com/yibie/SPEC-AGENTS.md) | 103 | Shell | Doc-Driven Development |
 | [xenitV1/cursor-dynamic-rules-system](https://github.com/xenitV1/cursor-dynamic-rules-system) | 98 | - |  |
+| [LukeRenton/explore-claude-code](https://github.com/LukeRenton/explore-claude-code) | 81 | JavaScript | Learn Claude Code by exploring it as it was designed - interactive IDE |
 | [Melvynx/cursor.rules](https://github.com/Melvynx/cursor.rules) | 76 | - |  |
 | [marchoag/Claude-Code-Setup-Wizard-MD](https://github.com/marchoag/Claude-Code-Setup-Wizard-MD) | 67 | JavaScript | Easily start and manage your Claude (and Codex!) projects, including a |
 | [pranav270-create/mdc_autogen](https://github.com/pranav270-create/mdc_autogen) | 56 | Python | Autogenerates cursor rules for a given repository |
+| [tknvstp/antigravity-skills](https://github.com/tknvstp/antigravity-skills) | 53 | - | 将 Claude Skills 转化为符合Antigravity的 rule 文件或者 workflow |
 | [thxan/THXAN-2](https://github.com/thxan/THXAN-2) | 52 | - | The best cursor user rules yet. |
-| [tknvstp/antigravity-skills](https://github.com/tknvstp/antigravity-skills) | 52 | - | 将 Claude Skills 转化为符合Antigravity的 rule 文件或者 workflow |
 | [johnpeterman72/cursor_memory_riper_framework](https://github.com/johnpeterman72/cursor_memory_riper_framework) | 48 | - | Rule set for Cursor with memory bank framework |
 | [droptica/drupal-agents-md](https://github.com/droptica/drupal-agents-md) | 48 | - |  |
 | [lmontanares/claude-md-builder](https://github.com/lmontanares/claude-md-builder) | 46 | - | CLAUDE.md Builder - Advanced meta-system for creating, optimizing, and |
@@ -445,7 +446,6 @@
 | [egebese/skill-manager](https://github.com/egebese/skill-manager) | 33 | Python | Save ~4,000 tokens per conversation by auto-disabling irrelevant Claud |
 | [matipojo/cursor-rules](https://github.com/matipojo/cursor-rules) | 31 | - | Simple rules that makes the difference |
 | [Lbaaziz/Usefull-cursor-prompts](https://github.com/Lbaaziz/Usefull-cursor-prompts) | 31 | - |  |
-| [LukeRenton/explore-claude-code](https://github.com/LukeRenton/explore-claude-code) | 30 | JavaScript | Learn Claude Code by exploring it as it was designed - interactive IDE |
 
 ---
 
@@ -462,4 +462,4 @@ Pull requests welcome!
 
 ---
 
-<p align="center"><sub>✨ Auto-curated · 2026-03-07 21:52:37</sub></p>
+<p align="center"><sub>✨ Auto-curated · 2026-03-08 21:51:35</sub></p>
